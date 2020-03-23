@@ -45,13 +45,17 @@
       }
     ],
     "display_defaults": {
-      "map_triplicate": false
+      "branch_label": "none",
+      "color_by": "local",
+      "distance_measure": "num_date",
+      "geo_resolution": "local",
+      "map_triplicate": true
     },
     "filters": [
-      "country",
-      "region",
-      "division",
       "local",
+      "division",
+      "region",
+      "country",
       "author"
     ],
     "genome_annotations": {
@@ -186,7 +190,7 @@
       "map",
       "entropy"
     ],
-    "title": "NextSpain: Spanish site for Nextstrain: Genomic epidemiology of pathogens",
+    "title": "NextSpain: Spanish site for Nextstrain: Genomic epidemiology of pathogens consortium (TESTING)",
     "updated": "2020-03-23"
   },
   "tree": {
