@@ -165,9 +165,17 @@
       },
       {
         "demes": {
+          "Leon": {
+            "latitude": 42.605556,
+            "longitude": -5.57
+          },
           "Madrid": {
             "latitude": 40.416775,
             "longitude": -3.70379
+          },
+          "Santiago de Compostela": {
+            "latitude": 42.878212,
+            "longitude": -8.544844
           },
           "Valencia": {
             "latitude": 39.4077013,
@@ -566,7 +574,7 @@
                           },
                           "div": 0.0004014186482609019,
                           "division": {
-                            "value": "Galicia"
+                            "value": "Santiago de Compostela"
                           },
                           "local": {
                             "value": "HospitalSantaMariaNai"
@@ -865,7 +873,7 @@
                               },
                               "div": 3.344506036928539e-05,
                               "division": {
-                                "value": "CastillayLeon"
+                                "value": "Leon"
                               },
                               "local": {
                                 "value": "HospitalUniversitarioDeBurgos"
