@@ -33,6 +33,11 @@
         "type": "categorical"
       },
       {
+        "key": "city",
+        "title": "City",
+        "type": "categorical"
+      },
+      {
         "key": "region",
         "scale": [
           [
@@ -53,9 +58,10 @@
     },
     "filters": [
       "local",
+      "city",
       "division",
-      "region",
       "country",
+      "region",
       "author"
     ],
     "genome_annotations": {
@@ -165,33 +171,25 @@
       },
       {
         "demes": {
-          "Leon": {
-            "latitude": 42.605556,
-            "longitude": -5.57
+          "Burgos": {
+            "latitude": -3.70419805,
+            "longitude": 42.34113004
           },
           "Madrid": {
-            "latitude": 40.416775,
-            "longitude": -3.70379
-          },
-          "Santiago de Compostela": {
-            "latitude": 42.878212,
-            "longitude": -8.544844
-          },
-          "Valencia": {
-            "latitude": 39.4077013,
-            "longitude": -0.5015955
+            "latitude": -3.68760088,
+            "longitude": 40.40841191
           }
         },
-        "key": "division"
+        "key": "city"
       },
       {
         "demes": {
-          "Europe": {
-            "latitude": 49.646237,
-            "longitude": 10.799454
+          "Madrid": {
+            "latitude": -3.68760088,
+            "longitude": 40.40841191
           }
         },
-        "key": "region"
+        "key": "division"
       },
       {
         "demes": {
@@ -201,6 +199,15 @@
           }
         },
         "key": "country"
+      },
+      {
+        "demes": {
+          "Europe": {
+            "latitude": 49.646237,
+            "longitude": 10.799454
+          }
+        },
+        "key": "region"
       }
     ],
     "maintainers": [
@@ -232,6 +239,9 @@
           "author": {
             "author": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas",
             "value": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas"
+          },
+          "city": {
+            "value": "Valencia"
           },
           "country": {
             "value": "Spain"
@@ -274,6 +284,9 @@
               "author": {
                 "author": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas",
                 "value": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas"
+              },
+              "city": {
+                "value": "Valencia"
               },
               "country": {
                 "value": "Spain"
@@ -333,6 +346,9 @@
                     "author": "Fernando Gonzalez-Candelas",
                     "value": "Fernando Gonzalez-Candelas"
                   },
+                  "city": {
+                    "value": "Valencia"
+                  },
                   "country": {
                     "value": "Spain"
                   },
@@ -375,6 +391,9 @@
                   "author": {
                     "author": "Fernando Gonzalez-Candelas",
                     "value": "Fernando Gonzalez-Candelas"
+                  },
+                  "city": {
+                    "value": "Valencia"
                   },
                   "country": {
                     "value": "Spain"
@@ -489,6 +508,9 @@
                     "author": "Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Fernando Gonzalez-Candelas",
                     "value": "Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Fernando Gonzalez-Candelas"
                   },
+                  "city": {
+                    "value": "Valencia"
+                  },
                   "country": {
                     "value": "Spain"
                   },
@@ -531,6 +553,9 @@
                         "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Fernandez Roblas R",
                         "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Fernandez Roblas R"
                       },
+                      "city": {
+                        "value": "Madrid"
+                      },
                       "country": {
                         "value": "Spain"
                       },
@@ -569,6 +594,9 @@
                             "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Garcia Costa J ",
                             "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Garcia Costa J "
                           },
+                          "city": {
+                            "value": "Orense"
+                          },
                           "country": {
                             "value": "Spain"
                           },
@@ -598,6 +626,9 @@
                         "name": "hCoV-19/Spain/Valencia1/2020|EPI_ISL_414495|2020-03-08",
                         "node_attrs": {
                           "accession": "EPI_ISL_414595",
+                          "city": {
+                            "value": "Valencia"
+                          },
                           "country": {
                             "value": "Spain"
                           },
@@ -711,6 +742,9 @@
                     "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
                     "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
                   },
+                  "city": {
+                    "value": "Valencia"
+                  },
                   "country": {
                     "value": "Spain"
                   },
@@ -748,6 +782,9 @@
                       "author": {
                         "author": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas",
                         "value": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas"
+                      },
+                      "city": {
+                        "value": "Valencia"
                       },
                       "country": {
                         "value": "Spain"
@@ -793,6 +830,9 @@
                         "name": "hCoV-19/Spain/Valencia2/2020|EPI_ISL_414496|2020-03-04",
                         "node_attrs": {
                           "accession": "EPI_ISL_414596",
+                          "city": {
+                            "value": "Valencia"
+                          },
                           "country": {
                             "value": "Spain"
                           },
@@ -831,6 +871,9 @@
                                 "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
                                 "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
                               },
+                              "city": {
+                                "value": "Valencia"
+                              },
                               "country": {
                                 "value": "Spain"
                               },
@@ -867,6 +910,9 @@
                               "author": {
                                 "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Megias Lobon G ",
                                 "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Megias Lobon G "
+                              },
+                              "city": {
+                                "value": "Burgos"
                               },
                               "country": {
                                 "value": "Spain"
