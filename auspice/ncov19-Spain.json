@@ -193,7 +193,7 @@
     ],
     "maintainers": [
       {
-        "name": "FISABIO Seuquencing and Bioinformatics Service",
+        "name": "FISABIO Sequencing and Bioinformatics Service",
         "url": "http://www.fisabio-ngs.com/en/"
       }
     ],
@@ -202,7 +202,7 @@
       "map",
       "entropy"
     ],
-    "title": "NextSpain: Spanish site for Nextstrain: Genomic epidemiology of pathogens consortium (TESTING)",
+    "title": "NextSpain: Spanish site for Nextstrain: Consortium for Genomic Epidemiology of Pathogens. (WEB SITE UNDER DEVELOPMENT)",
     "updated": "2020-03-24"
   },
   "tree": {
