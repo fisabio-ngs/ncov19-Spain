@@ -172,21 +172,41 @@
       {
         "demes": {
           "Burgos": {
-            "latitude": -3.70419805,
-            "longitude": 42.34113004
+            "latitude": 42.34113004,
+            "longitude": -3.70419805
           },
           "Madrid": {
-            "latitude": -3.68760088,
-            "longitude": 40.40841191
+            "latitude": 40.40841191,
+            "longitude": -3.68760088
+          },
+          "Ourense": {
+            "latitude": 42.33553117,
+            "longitude": -7.863836656
+          },
+          "Valencia": {
+            "latitude": 39.47534441,
+            "longitude": -0.37565717
           }
         },
         "key": "city"
       },
       {
         "demes": {
+          "Leon": {
+            "latitude": 42.59912097,
+            "longitude": -5.56707631
+          },
           "Madrid": {
-            "latitude": -3.68760088,
-            "longitude": 40.40841191
+            "latitude": 40.40841191,
+            "longitude": -3.68760088
+          },
+          "Santiago de Compostela": {
+            "latitude": 42.87999954,
+            "longitude": -8.546107172
+          },
+          "Valencia": {
+            "latitude": 39.47534441,
+            "longitude": -0.37565717
           }
         },
         "key": "division"
@@ -595,7 +615,7 @@
                             "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Garcia Costa J "
                           },
                           "city": {
-                            "value": "Orense"
+                            "value": "Ourense"
                           },
                           "country": {
                             "value": "Spain"
