@@ -155,6 +155,10 @@
           "HospitalSantaMariaNai": {
             "latitude": 42.3032603,
             "longitude": -7.912177
+          },
+          "HospitalUniversitarioDeBurgos": {
+            "latitude": 42.361942,
+            "longitude": -3.687087
           }
         },
         "key": "local"
@@ -167,7 +171,7 @@
           },
           "Valencia": {
             "latitude": 39.466667,
-            "longitude": -375.0
+            "longitude": -3.75
           }
         },
         "key": "division"
