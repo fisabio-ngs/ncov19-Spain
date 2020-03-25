@@ -61,9 +61,7 @@
       "local",
       "city",
       "division",
-      "country",
-      "region",
-      "author"
+      "country"
     ],
     "genome_annotations": {
       "E": {
