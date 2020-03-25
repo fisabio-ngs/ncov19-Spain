@@ -49,6 +49,7 @@
         "type": "categorical"
       }
     ],
+    "description": "# This is a test\nNextspain is a publicly funded initiative contributing to better understanding and decision making during epidemics. We offer a continually-updated view of genomic sequences of pathogens mimicking [nextstrain.org](nextstrain.org) to inform the scientific community about the molecular epidemiology of infectious diseases in Spain.\n\n\n",
     "display_defaults": {
       "branch_label": "none",
       "color_by": "local",
@@ -242,7 +243,7 @@
       "entropy"
     ],
     "title": "NextSpain: Spanish site for Nextstrain: Consortium for Genomic Epidemiology of Pathogens. (WEB SITE UNDER DEVELOPMENT)",
-    "updated": "2020-03-24"
+    "updated": "2020-03-25"
   },
   "tree": {
     "branch_attrs": {
