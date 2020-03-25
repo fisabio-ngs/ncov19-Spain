@@ -252,12 +252,12 @@
         "branch_attrs": {
           "mutations": {}
         },
-        "name": "hCoV-19/Spain/Valencia8/2020|EPI_ISL_416487|2020-03-04",
+        "name": "hCoV-19/Spain/Valencia5/2020|EPI_ISL_416484|2020-02-27",
         "node_attrs": {
-          "accession": "EPI_ISL_416487",
+          "accession": "EPI_ISL_416484",
           "author": {
-            "author": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas",
-            "value": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas"
+            "author": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas",
+            "value": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas"
           },
           "city": {
             "value": "Valencia"
@@ -265,7 +265,7 @@
           "country": {
             "value": "Spain"
           },
-          "div": 6.2204974283531905e-19,
+          "div": 6.229540752336521e-19,
           "division": {
             "value": "Valencia"
           },
@@ -274,10 +274,10 @@
           },
           "num_date": {
             "confidence": [
-              2020.1734972677596,
-              2020.1734972677596
+              2020.1571038251366,
+              2020.1571038251366
             ],
-            "value": 2020.1734972677596
+            "value": 2020.1571038251366
           },
           "region": {
             "value": "Europe"
@@ -310,7 +310,7 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 3.344441242760012e-05,
+              "div": 3.3444378877066155e-05,
               "division": {
                 "value": "Valencia"
               },
@@ -323,138 +323,6 @@
                   2020.1571038251366
                 ],
                 "value": 2020.1571038251366
-              },
-              "region": {
-                "value": "Europe"
-              }
-            }
-          },
-          {
-            "branch_attrs": {
-              "mutations": {}
-            },
-            "children": [
-              {
-                "branch_attrs": {
-                  "labels": {
-                    "aa": "orf1ab: E2268A, G2269A, N2272Y, N2275T, V2276A"
-                  },
-                  "mutations": {
-                    "nuc": [
-                      "A7068C",
-                      "G7071C",
-                      "A7079T",
-                      "T7084A",
-                      "T7087A",
-                      "A7089C",
-                      "T7092C"
-                    ],
-                    "orf1ab": [
-                      "E2268A",
-                      "G2269A",
-                      "N2272Y",
-                      "N2275T",
-                      "V2276A"
-                    ]
-                  }
-                },
-                "name": "HUGV7999cons",
-                "node_attrs": {
-                  "accession": "Test02",
-                  "author": {
-                    "author": "Fernando Gonzalez-Candelas",
-                    "value": "Fernando Gonzalez-Candelas"
-                  },
-                  "city": {
-                    "value": "Valencia"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.0002341658062458777,
-                  "division": {
-                    "value": "Valencia"
-                  },
-                  "local": {
-                    "value": "HospitalGeneralValencia"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1680327868853,
-                      2020.1680327868853
-                    ],
-                    "value": 2020.1680327868853
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              },
-              {
-                "branch_attrs": {
-                  "labels": {
-                    "aa": "orf1ab: P1786S"
-                  },
-                  "mutations": {
-                    "nuc": [
-                      "C5621T"
-                    ],
-                    "orf1ab": [
-                      "P1786S"
-                    ]
-                  }
-                },
-                "name": "HUGV6618coNs",
-                "node_attrs": {
-                  "accession": "Test01",
-                  "author": {
-                    "author": "Fernando Gonzalez-Candelas",
-                    "value": "Fernando Gonzalez-Candelas"
-                  },
-                  "city": {
-                    "value": "Valencia"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 3.3447061724938576e-05,
-                  "division": {
-                    "value": "Valencia"
-                  },
-                  "local": {
-                    "value": "HospitalGeneralValencia"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1789617486338,
-                      2020.1789617486338
-                    ],
-                    "value": 2020.1789617486338
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              }
-            ],
-            "name": "NODE_0000006",
-            "node_attrs": {
-              "country": {
-                "value": "Spain"
-              },
-              "div": 1.2440994856706381e-18,
-              "division": {
-                "value": "Valencia"
-              },
-              "local": {
-                "value": "HospitalGeneralValencia"
-              },
-              "num_date": {
-                "confidence": [
-                  2019.962296394353,
-                  2020.1680327868853
-                ],
-                "value": 2020.1527694856431
               },
               "region": {
                 "value": "Europe"
@@ -533,7 +401,7 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.0005017648292819904,
+                  "div": 0.0005017647586549334,
                   "division": {
                     "value": "Valencia"
                   },
@@ -578,7 +446,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.0004014186482609013,
+                      "div": 0.00040141854803298153,
                       "division": {
                         "value": "Madrid"
                       },
@@ -619,7 +487,7 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.0004014186482609019,
+                          "div": 0.0004014185480329821,
                           "division": {
                             "value": "Santiago de Compostela"
                           },
@@ -651,7 +519,7 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.0004014186482609019,
+                          "div": 0.0004014185480329821,
                           "division": {
                             "value": "Valencia"
                           },
@@ -676,7 +544,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.0004014186482609013,
+                      "div": 0.00040141854803298153,
                       "division": {
                         "value": "Valencia"
                       },
@@ -685,7 +553,7 @@
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1710735979902,
+                          2020.17223493331,
                           2020.181693989071
                         ],
                         "value": 2020.181693989071
@@ -701,7 +569,7 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.0004014186482609007,
+                  "div": 0.00040141854803298093,
                   "division": {
                     "value": "Valencia"
                   },
@@ -710,10 +578,10 @@
                   },
                   "num_date": {
                     "confidence": [
-                      2020.167410452962,
+                      2020.1669107418425,
                       2020.1734972677596
                     ],
-                    "value": 2020.172786343465
+                    "value": 2020.1734972677596
                   },
                   "region": {
                     "value": "Europe"
@@ -726,7 +594,7 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 0.0003679738091474039,
+              "div": 0.0003679738137051706,
               "division": {
                 "value": "Valencia"
               },
@@ -735,10 +603,10 @@
               },
               "num_date": {
                 "confidence": [
-                  2020.1518957057478,
+                  2020.1513702625043,
                   2020.1680327868853
                 ],
-                "value": 2020.1637830740085
+                "value": 2020.1602087907102
               },
               "region": {
                 "value": "Europe"
@@ -754,20 +622,248 @@
                 "branch_attrs": {
                   "mutations": {}
                 },
-                "name": "hCoV-19/Spain/Valencia4/2020|EPI_ISL_416483|2020-02-26",
+                "children": [
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "orf1ab: E2268A, G2269A, N2272Y, N2275T, V2276A"
+                      },
+                      "mutations": {
+                        "nuc": [
+                          "A7068C",
+                          "G7071C",
+                          "A7079T",
+                          "T7084A",
+                          "T7087A",
+                          "A7089C",
+                          "T7092C"
+                        ],
+                        "orf1ab": [
+                          "E2268A",
+                          "G2269A",
+                          "N2272Y",
+                          "N2275T",
+                          "V2276A"
+                        ]
+                      }
+                    },
+                    "children": [
+                      {
+                        "branch_attrs": {
+                          "mutations": {}
+                        },
+                        "name": "hCoV-19/Spain/Valencia9/2020|EPI_ISL_417205|2020-03-02",
+                        "node_attrs": {
+                          "accession": "EPI_ISL_417205",
+                          "author": {
+                            "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                            "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                          },
+                          "city": {
+                            "value": "Valencia"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.00023414731619072812,
+                          "division": {
+                            "value": "Valencia"
+                          },
+                          "local": {
+                            "value": "HospitalGeneralValencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1680327868853,
+                              2020.1680327868853
+                            ],
+                            "value": 2020.1680327868853
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "mutations": {}
+                        },
+                        "name": "HUGV7999cons",
+                        "node_attrs": {
+                          "accession": "Test02",
+                          "author": {
+                            "author": "Fernando Gonzalez-Candelas",
+                            "value": "Fernando Gonzalez-Candelas"
+                          },
+                          "city": {
+                            "value": "Valencia"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.00023414731619072812,
+                          "division": {
+                            "value": "Valencia"
+                          },
+                          "local": {
+                            "value": "HospitalGeneralValencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1680327868853,
+                              2020.1680327868853
+                            ],
+                            "value": 2020.1680327868853
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000012",
+                    "node_attrs": {
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.0002341473161907275,
+                      "division": {
+                        "value": "Valencia"
+                      },
+                      "local": {
+                        "value": "HospitalGeneralValencia"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1647957079367,
+                          2020.1680327868853
+                        ],
+                        "value": 2020.167481837932
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "orf1ab: P1786S"
+                      },
+                      "mutations": {
+                        "nuc": [
+                          "C5621T"
+                        ],
+                        "orf1ab": [
+                          "P1786S"
+                        ]
+                      }
+                    },
+                    "children": [
+                      {
+                        "branch_attrs": {
+                          "mutations": {}
+                        },
+                        "name": "HUGV6618coNs",
+                        "node_attrs": {
+                          "accession": "Test01",
+                          "author": {
+                            "author": "Fernando Gonzalez-Candelas",
+                            "value": "Fernando Gonzalez-Candelas"
+                          },
+                          "city": {
+                            "value": "Valencia"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 3.344508996240548e-05,
+                          "division": {
+                            "value": "Valencia"
+                          },
+                          "local": {
+                            "value": "HospitalGeneralValencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1789617486338,
+                              2020.1789617486338
+                            ],
+                            "value": 2020.1789617486338
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "mutations": {}
+                        },
+                        "name": "hCoV-19/Spain/Valencia10/2020|EPI_ISL_417206|2020-03-06",
+                        "node_attrs": {
+                          "accession": "EPI_ISL_417206",
+                          "author": {
+                            "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                            "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                          },
+                          "city": {
+                            "value": "Valencia"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 3.344508996240548e-05,
+                          "division": {
+                            "value": "Valencia"
+                          },
+                          "local": {
+                            "value": "HospitalGeneralValencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1789617486338,
+                              2020.1789617486338
+                            ],
+                            "value": 2020.1789617486338
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000008",
+                    "node_attrs": {
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 3.344508996240486e-05,
+                      "division": {
+                        "value": "Valencia"
+                      },
+                      "local": {
+                        "value": "HospitalGeneralValencia"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1604059229146,
+                          2020.1789617486338
+                        ],
+                        "value": 2020.1789617486338
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000011",
                 "node_attrs": {
-                  "accession": "EPI_ISL_416483",
-                  "author": {
-                    "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                    "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                  },
-                  "city": {
-                    "value": "Valencia"
-                  },
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 1.8661492285059572e-18,
+                  "div": 1.8688622257009564e-18,
                   "division": {
                     "value": "Valencia"
                   },
@@ -776,10 +872,10 @@
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1543715846994,
-                      2020.1543715846994
+                      2019.897226689616,
+                      2020.1649658583033
                     ],
-                    "value": 2020.1543715846994
+                    "value": 2020.154766263669
                   },
                   "region": {
                     "value": "Europe"
@@ -795,12 +891,12 @@
                     "branch_attrs": {
                       "mutations": {}
                     },
-                    "name": "hCoV-19/Spain/Valencia5/2020|EPI_ISL_416484|2020-02-27",
+                    "name": "hCoV-19/Spain/Valencia4/2020|EPI_ISL_416483|2020-02-26",
                     "node_attrs": {
-                      "accession": "EPI_ISL_416484",
+                      "accession": "EPI_ISL_416483",
                       "author": {
-                        "author": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas",
-                        "value": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas"
+                        "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                        "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
                       },
                       "city": {
                         "value": "Valencia"
@@ -808,7 +904,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 2.4881989713412762e-18,
+                      "div": 2.4918163009346084e-18,
                       "division": {
                         "value": "Valencia"
                       },
@@ -817,10 +913,10 @@
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1571038251366,
-                          2020.1571038251366
+                          2020.1543715846994,
+                          2020.1543715846994
                         ],
-                        "value": 2020.1571038251366
+                        "value": 2020.1543715846994
                       },
                       "region": {
                         "value": "Europe"
@@ -855,7 +951,7 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 3.344506036928477e-05,
+                          "div": 3.344508996240548e-05,
                           "division": {
                             "value": "Valencia"
                           },
@@ -881,42 +977,6 @@
                         "children": [
                           {
                             "branch_attrs": {
-                              "mutations": {}
-                            },
-                            "name": "hCoV-19/Spain/Valencia3/2020|EPI_ISL_414598|2020-03-05",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_414598",
-                              "author": {
-                                "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                              },
-                              "city": {
-                                "value": "Valencia"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 3.732407121054213e-18,
-                              "division": {
-                                "value": "Valencia"
-                              },
-                              "local": {
-                                "value": "HospitalClinicoValencia"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1762295081967,
-                                  2020.1762295081967
-                                ],
-                                "value": 2020.1762295081967
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
                               "mutations": {
                                 "nuc": [
                                   "C18582T"
@@ -936,7 +996,7 @@
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 3.344506036928539e-05,
+                              "div": 3.3445089962406105e-05,
                               "division": {
                                 "value": "Leon"
                               },
@@ -954,14 +1014,116 @@
                                 "value": "Europe"
                               }
                             }
+                          },
+                          {
+                            "branch_attrs": {
+                              "mutations": {}
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Valencia8/2020|EPI_ISL_416487|2020-03-04",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_416487",
+                                  "author": {
+                                    "author": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas",
+                                    "value": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 4.360678526635565e-18,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalGeneralValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1734972677596,
+                                      2020.1734972677596
+                                    ],
+                                    "value": 2020.1734972677596
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Valencia3/2020|EPI_ISL_414598|2020-03-05",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_414598",
+                                  "author": {
+                                    "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                    "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 3.7378764404249154e-18,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalClinicoValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1762295081967,
+                                      2020.1762295081967
+                                    ],
+                                    "value": 2020.1762295081967
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000014",
+                            "node_attrs": {
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 3.737724451401913e-18,
+                              "division": {
+                                "value": "Valencia"
+                              },
+                              "local": {
+                                "value": "HospitalClinicoValencia"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2020.1636787278926,
+                                  2020.1734972677596
+                                ],
+                                "value": 2020.1734972677596
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
                           }
                         ],
-                        "name": "NODE_0000010",
+                        "name": "NODE_0000013",
                         "node_attrs": {
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 3.110248714176595e-18,
+                          "div": 3.1147703761682604e-18,
                           "division": {
                             "value": "Valencia"
                           },
@@ -970,10 +1132,10 @@
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1617898926868,
-                              2020.1734972677596
+                              2020.1574351277877,
+                              2020.1732046501793
                             ],
-                            "value": 2020.1690436956123
+                            "value": 2020.1683607028629
                           },
                           "region": {
                             "value": "Europe"
@@ -981,12 +1143,12 @@
                         }
                       }
                     ],
-                    "name": "NODE_0000009",
+                    "name": "NODE_0000010",
                     "node_attrs": {
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 2.4881989713412762e-18,
+                      "div": 2.4918163009346084e-18,
                       "division": {
                         "value": "Valencia"
                       },
@@ -995,10 +1157,10 @@
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1558365417397,
-                          2020.1725146650479
+                          2020.1508615618488,
+                          2020.172794027678
                         ],
-                        "value": 2020.1640736229322
+                        "value": 2020.1594979933127
                       },
                       "region": {
                         "value": "Europe"
@@ -1006,12 +1168,12 @@
                     }
                   }
                 ],
-                "name": "NODE_0000008",
+                "name": "NODE_0000009",
                 "node_attrs": {
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 1.8661492285059572e-18,
+                  "div": 1.8688622257009564e-18,
                   "division": {
                     "value": "Valencia"
                   },
@@ -1020,10 +1182,10 @@
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1531481321354,
-                      2020.1571038251366
+                      2020.148816352493,
+                      2020.1543715846994
                     ],
-                    "value": 2020.1571038251366
+                    "value": 2020.1543715846994
                   },
                   "region": {
                     "value": "Europe"
@@ -1031,12 +1193,12 @@
                 }
               }
             ],
-            "name": "NODE_0000007",
+            "name": "NODE_0000006",
             "node_attrs": {
               "country": {
                 "value": "Spain"
               },
-              "div": 1.2440994856706381e-18,
+              "div": 1.2459081504673042e-18,
               "division": {
                 "value": "Valencia"
               },
@@ -1045,10 +1207,10 @@
               },
               "num_date": {
                 "confidence": [
-                  2020.1501840752535,
-                  2020.1543715846994
+                  2019.8973197525545,
+                  2020.1540695031572
                 ],
-                "value": 2020.152550629459
+                "value": 2020.1494476241492
               },
               "region": {
                 "value": "Europe"
@@ -1061,7 +1223,7 @@
           "country": {
             "value": "Spain"
           },
-          "div": 6.2204974283531905e-19,
+          "div": 6.229540752336521e-19,
           "division": {
             "value": "Valencia"
           },
@@ -1070,10 +1232,10 @@
           },
           "num_date": {
             "confidence": [
-              2019.9623206380866,
-              2020.1540482730702
+              2019.8975384003868,
+              2020.1539941065541
             ],
-            "value": 2020.149789988966
+            "value": 2020.1482702336348
           },
           "region": {
             "value": "Europe"
@@ -1095,10 +1257,10 @@
       },
       "num_date": {
         "confidence": [
-          2019.9623447832432,
-          2020.1536460048999
+          2019.8976075883736,
+          2020.152734722742
         ],
-        "value": 2020.1495595283113
+        "value": 2020.1431001879323
       },
       "region": {
         "value": "Europe"
