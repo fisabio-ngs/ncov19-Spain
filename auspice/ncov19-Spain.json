@@ -149,6 +149,18 @@
             "latitude": 40.4389953,
             "longitude": -3.7212382
           },
+          "Hospital Universitario 12 de Octubre": {
+            "latitude": 40.3760381,
+            "longitude": -3.7011955
+          },
+          "Hospital Universitario La Paz": {
+            "latitude": 40.4811633,
+            "longitude": -3.6895864
+          },
+          "Hospital Universitario Ramon y Cajal": {
+            "latitude": 40.4876043,
+            "longitude": -3.6973043
+          },
           "HospitalClinicoValencia": {
             "latitude": 39.4780638,
             "longitude": -0.364173
@@ -241,7 +253,7 @@
       "entropy"
     ],
     "title": "NextSpain: Spanish site for Nextstrain: Consortium for Genomic Epidemiology of Pathogens. (WEB SITE UNDER DEVELOPMENT)",
-    "updated": "2020-03-25"
+    "updated": "2020-03-28"
   },
   "tree": {
     "branch_attrs": {
@@ -250,79 +262,68 @@
     "children": [
       {
         "branch_attrs": {
-          "mutations": {}
-        },
-        "name": "hCoV-19/Spain/Valencia8/2020|EPI_ISL_416487|2020-03-04",
-        "node_attrs": {
-          "accession": "EPI_ISL_416487",
-          "author": {
-            "author": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas",
-            "value": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas"
+          "labels": {
+            "aa": "ORF8: L84S"
           },
-          "city": {
-            "value": "Valencia"
-          },
-          "country": {
-            "value": "Spain"
-          },
-          "div": 6.21793397499949e-19,
-          "division": {
-            "value": "Valencia"
-          },
-          "local": {
-            "value": "HospitalGeneralValencia"
-          },
-          "num_date": {
-            "confidence": [
-              2020.1734972677596,
-              2020.1734972677596
+          "mutations": {
+            "ORF8": [
+              "L84S"
             ],
-            "value": 2020.1734972677596
-          },
-          "region": {
-            "value": "Europe"
+            "nuc": [
+              "C8782T",
+              "T28144C"
+            ]
           }
-        }
-      },
-      {
-        "branch_attrs": {
-          "mutations": {}
         },
         "children": [
           {
             "branch_attrs": {
+              "labels": {
+                "aa": "S: L1265P; orf1ab: D2980G, T3791S, R7030G"
+              },
               "mutations": {
+                "S": [
+                  "L1265P"
+                ],
                 "nuc": [
-                  "T5290C"
+                  "A9204G",
+                  "A11636T",
+                  "A21352G",
+                  "T25356C"
+                ],
+                "orf1ab": [
+                  "D2980G",
+                  "T3791S",
+                  "R7030G"
                 ]
               }
             },
-            "name": "hCoV-19/Spain/Valencia6/2020|EPI_ISL_416485|2020-02-27",
+            "name": "hCoV-19/Spain/Madrid_R2_15/2020|EPI_ISL_417979|2020-03-03",
             "node_attrs": {
-              "accession": "EPI_ISL_416485",
+              "accession": "EPI_ISL_417979",
               "author": {
-                "author": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas",
-                "value": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas"
+                "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
               },
               "city": {
-                "value": "Valencia"
+                "value": "Madrid"
               },
               "country": {
                 "value": "Spain"
               },
-              "div": 3.344439133469105e-05,
+              "div": 0.00020066257981018746,
               "division": {
-                "value": "Valencia"
+                "value": "Madrid"
               },
               "local": {
-                "value": "HospitalGeneralValencia"
+                "value": "Hospital Universitario Ramon y Cajal"
               },
               "num_date": {
                 "confidence": [
-                  2020.1571038251366,
-                  2020.1571038251366
+                  2020.1707650273224,
+                  2020.1707650273224
                 ],
-                "value": 2020.1571038251366
+                "value": 2020.1707650273224
               },
               "region": {
                 "value": "Europe"
@@ -331,52 +332,89 @@
           },
           {
             "branch_attrs": {
-              "mutations": {}
+              "mutations": {
+                "nuc": [
+                  "T12364A",
+                  "A19719T",
+                  "C26088T"
+                ]
+              }
+            },
+            "name": "hCoV-19/Spain/Madrid_R5_8/2020|EPI_ISL_417980|2020-03-03",
+            "node_attrs": {
+              "accession": "EPI_ISL_417980",
+              "author": {
+                "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+              },
+              "city": {
+                "value": "Madrid"
+              },
+              "country": {
+                "value": "Spain"
+              },
+              "div": 0.00016722057097628005,
+              "division": {
+                "value": "Madrid"
+              },
+              "local": {
+                "value": "Hospital Universitario Ramon y Cajal"
+              },
+              "num_date": {
+                "confidence": [
+                  2020.1707650273224,
+                  2020.1707650273224
+                ],
+                "value": 2020.1707650273224
+              },
+              "region": {
+                "value": "Europe"
+              }
+            }
+          },
+          {
+            "branch_attrs": {
+              "labels": {
+                "aa": "N: S197L; orf1ab: F3071Y"
+              },
+              "mutations": {
+                "N": [
+                  "S197L"
+                ],
+                "nuc": [
+                  "T9477A",
+                  "C14805T",
+                  "C28863T"
+                ],
+                "orf1ab": [
+                  "F3071Y"
+                ]
+              }
             },
             "children": [
               {
                 "branch_attrs": {
-                  "labels": {
-                    "aa": "orf1ab: E2268A, G2269A, N2272Y, N2275T, V2276A"
-                  },
-                  "mutations": {
-                    "nuc": [
-                      "A7068C",
-                      "G7071C",
-                      "A7079T",
-                      "T7084A",
-                      "T7087A",
-                      "A7089C",
-                      "T7092C"
-                    ],
-                    "orf1ab": [
-                      "E2268A",
-                      "G2269A",
-                      "N2272Y",
-                      "N2275T",
-                      "V2276A"
-                    ]
-                  }
+                  "mutations": {}
                 },
-                "name": "hCoV-19/Spain/Valencia9/2020|EPI_ISL_417205|2020-03-02",
+                "name": "hCoV-19/Spain/Madrid_R10_33/2020|EPI_ISL_417981|2020-03-02",
                 "node_attrs": {
-                  "accession": "EPI_ISL_417205",
+                  "accession": "EPI_ISL_417981",
                   "author": {
-                    "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                    "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
                   },
                   "city": {
-                    "value": "Valencia"
+                    "value": "Madrid"
                   },
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.0002341658185082883,
+                  "div": 0.00016722034589741023,
                   "division": {
-                    "value": "Valencia"
+                    "value": "Madrid"
                   },
                   "local": {
-                    "value": "HospitalGeneralValencia"
+                    "value": "Hospital Universitario Ramon y Cajal"
                   },
                   "num_date": {
                     "confidence": [
@@ -393,31 +431,614 @@
               {
                 "branch_attrs": {
                   "labels": {
-                    "aa": "orf1ab: P1786S"
+                    "aa": "ORF3a: G196V"
                   },
                   "mutations": {
-                    "nuc": [
-                      "C5621T"
+                    "ORF3a": [
+                      "G196V"
                     ],
-                    "orf1ab": [
-                      "P1786S"
+                    "nuc": [
+                      "G25979T",
+                      "C28657T"
                     ]
                   }
                 },
-                "name": "hCoV-19/Spain/Valencia10/2020|EPI_ISL_417206|2020-03-06",
+                "children": [
+                  {
+                    "branch_attrs": {
+                      "mutations": {
+                        "nuc": [
+                          "C18582T"
+                        ]
+                      }
+                    },
+                    "name": "hCoV-19/Spain/CastillayLeon201437/2020|EPI_ISL_416994|2020-03-04",
+                    "node_attrs": {
+                      "accession": "EPI_ISL_416994",
+                      "author": {
+                        "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Megias Lobon G ",
+                        "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Megias Lobon G "
+                      },
+                      "city": {
+                        "value": "Burgos"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.0002675563552879514,
+                      "division": {
+                        "value": "Leon"
+                      },
+                      "local": {
+                        "value": "HospitalUniversitarioDeBurgos"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1734972677596,
+                          2020.1734972677596
+                        ],
+                        "value": 2020.1734972677596
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "S: S940F"
+                      },
+                      "mutations": {
+                        "S": [
+                          "S940F"
+                        ],
+                        "nuc": [
+                          "C24381T"
+                        ]
+                      }
+                    },
+                    "name": "hCoV-19/Spain/Valencia2/2020|EPI_ISL_414496|2020-03-04",
+                    "node_attrs": {
+                      "accession": "EPI_ISL_414596",
+                      "city": {
+                        "value": "Valencia"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.00026755722293465476,
+                      "division": {
+                        "value": "Valencia"
+                      },
+                      "local": {
+                        "value": "HospitalClinicoValencia"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1734972677596,
+                          2020.1734972677596
+                        ],
+                        "value": 2020.1734972677596
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "mutations": {
+                        "nuc": [
+                          "T5290C"
+                        ]
+                      }
+                    },
+                    "name": "hCoV-19/Spain/Valencia6/2020|EPI_ISL_416485|2020-02-27",
+                    "node_attrs": {
+                      "accession": "EPI_ISL_416485",
+                      "author": {
+                        "author": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas",
+                        "value": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas"
+                      },
+                      "city": {
+                        "value": "Valencia"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.0002675556063265845,
+                      "division": {
+                        "value": "Valencia"
+                      },
+                      "local": {
+                        "value": "HospitalGeneralValencia"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1571038251366,
+                          2020.1571038251366
+                        ],
+                        "value": 2020.1571038251366
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "mutations": {}
+                    },
+                    "children": [
+                      {
+                        "branch_attrs": {
+                          "mutations": {}
+                        },
+                        "children": [
+                          {
+                            "branch_attrs": {
+                              "mutations": {
+                                "nuc": [
+                                  "C26681T"
+                                ]
+                              }
+                            },
+                            "name": "hCoV-19/Spain/Madrid_H9_38/2020|EPI_ISL_417961|2020-03-12",
+                            "node_attrs": {
+                              "accession": "EPI_ISL_417961",
+                              "author": {
+                                "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                                "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                              },
+                              "city": {
+                                "value": "Madrid"
+                              },
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 0.00026755635528795537,
+                              "division": {
+                                "value": "Madrid"
+                              },
+                              "local": {
+                                "value": "Hospital Universitario 12 de Octubre"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2020.1953551912568,
+                                  2020.1953551912568
+                                ],
+                                "value": 2020.1953551912568
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {
+                              "mutations": {}
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "orf1ab: E2268A, G2269A, N2272Y, N2275T, V2276A"
+                                  },
+                                  "mutations": {
+                                    "nuc": [
+                                      "A7068C",
+                                      "G7071C",
+                                      "A7079T",
+                                      "T7084A",
+                                      "T7087A",
+                                      "A7089C",
+                                      "T7092C"
+                                    ],
+                                    "orf1ab": [
+                                      "E2268A",
+                                      "G2269A",
+                                      "N2272Y",
+                                      "N2275T",
+                                      "V2276A"
+                                    ]
+                                  }
+                                },
+                                "name": "hCoV-19/Spain/Valencia9/2020|EPI_ISL_417205|2020-03-02",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417205",
+                                  "author": {
+                                    "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                    "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00046829424242273094,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalGeneralValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1680327868853,
+                                      2020.1680327868853
+                                    ],
+                                    "value": 2020.1680327868853
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "orf1ab: P1786S"
+                                  },
+                                  "mutations": {
+                                    "nuc": [
+                                      "C5621T"
+                                    ],
+                                    "orf1ab": [
+                                      "P1786S"
+                                    ]
+                                  }
+                                },
+                                "name": "hCoV-19/Spain/Valencia10/2020|EPI_ISL_417206|2020-03-06",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417206",
+                                  "author": {
+                                    "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                    "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00026756287760695987,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalGeneralValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1789617486338,
+                                      2020.1789617486338
+                                    ],
+                                    "value": 2020.1789617486338
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000025",
+                            "node_attrs": {
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 0.0002341116289096342,
+                              "division": {
+                                "value": "Valencia"
+                              },
+                              "local": {
+                                "value": "HospitalGeneralValencia"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2019.7425168096966,
+                                  2020.1680327868853
+                                ],
+                                "value": 2020.1263248590888
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000021",
+                        "node_attrs": {
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.00023411162890963223,
+                          "division": {
+                            "value": "Valencia"
+                          },
+                          "local": {
+                            "value": "HospitalGeneralValencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2019.7424577689703,
+                              2020.1643125034077
+                            ],
+                            "value": 2020.1258771470516
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "mutations": {}
+                        },
+                        "children": [
+                          {
+                            "branch_attrs": {
+                              "mutations": {}
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Valencia3/2020|EPI_ISL_414598|2020-03-05",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_414598",
+                                  "author": {
+                                    "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                    "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023411162890963618,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalClinicoValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1762295081967,
+                                      2020.1762295081967
+                                    ],
+                                    "value": 2020.1762295081967
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Valencia8/2020|EPI_ISL_416487|2020-03-04",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_416487",
+                                  "author": {
+                                    "author": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas",
+                                    "value": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023411162890963618,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalGeneralValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1734972677596,
+                                      2020.1734972677596
+                                    ],
+                                    "value": 2020.1734972677596
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000006",
+                            "node_attrs": {
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 0.0002341116289096342,
+                              "division": {
+                                "value": "Valencia"
+                              },
+                              "local": {
+                                "value": "HospitalGeneralValencia"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2020.0929651281672,
+                                  2020.1734972677596
+                                ],
+                                "value": 2020.1333675959097
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {
+                              "mutations": {}
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Valencia4/2020|EPI_ISL_416483|2020-02-26",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_416483",
+                                  "author": {
+                                    "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                    "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023411162890963618,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalGeneralValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1543715846994,
+                                      2020.1543715846994
+                                    ],
+                                    "value": 2020.1543715846994
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Valencia5/2020|EPI_ISL_416484|2020-02-27",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_416484",
+                                  "author": {
+                                    "author": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas",
+                                    "value": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023411162890963618,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalGeneralValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1571038251366,
+                                      2020.1571038251366
+                                    ],
+                                    "value": 2020.1571038251366
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000007",
+                            "node_attrs": {
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 0.0002341116289096342,
+                              "division": {
+                                "value": "Valencia"
+                              },
+                              "local": {
+                                "value": "HospitalGeneralValencia"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2020.1200273604127,
+                                  2020.1543715846994
+                                ],
+                                "value": 2020.1543715846994
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
+                          }
+                        ],
+                        "name": "NODE_0000005",
+                        "node_attrs": {
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.00023411162890963223,
+                          "division": {
+                            "value": "Valencia"
+                          },
+                          "local": {
+                            "value": "HospitalGeneralValencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2019.7089774458605,
+                              2020.1529583552012
+                            ],
+                            "value": 2020.1214129013094
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000010",
+                    "node_attrs": {
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.00023411162890963025,
+                      "division": {
+                        "value": "Valencia"
+                      },
+                      "local": {
+                        "value": "HospitalGeneralValencia"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2019.73076154586,
+                          2020.1493282461226
+                        ],
+                        "value": 2020.1198380601452
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000017",
                 "node_attrs": {
-                  "accession": "EPI_ISL_417206",
-                  "author": {
-                    "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                    "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                  },
-                  "city": {
-                    "value": "Valencia"
-                  },
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 3.344703132483613e-05,
+                  "div": 0.00023411162890962827,
                   "division": {
                     "value": "Valencia"
                   },
@@ -426,10 +1047,10 @@
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1789617486338,
-                      2020.1789617486338
+                      2019.7366062839471,
+                      2020.1457321373862
                     ],
-                    "value": 2020.1789617486338
+                    "value": 2020.1197861780495
                   },
                   "region": {
                     "value": "Europe"
@@ -437,24 +1058,175 @@
                 }
               }
             ],
-            "name": "NODE_0000011",
+            "name": "NODE_0000016",
             "node_attrs": {
               "country": {
                 "value": "Spain"
               },
-              "div": 1.243586794999898e-18,
+              "div": 0.00016722034589740825,
               "division": {
-                "value": "Valencia"
+                "value": "Madrid"
               },
               "local": {
-                "value": "HospitalGeneralValencia"
+                "value": "Hospital Universitario Ramon y Cajal"
               },
               "num_date": {
                 "confidence": [
-                  2019.963922944521,
-                  2020.1680327868853
+                  2019.7374020498555,
+                  2020.1410204006356
                 ],
-                "value": 2020.1516736051935
+                "value": 2020.1100677053244
+              },
+              "region": {
+                "value": "Europe"
+              }
+            }
+          }
+        ],
+        "name": "NODE_0000014",
+        "node_attrs": {
+          "country": {
+            "value": "Spain"
+          },
+          "div": 6.688563495191408e-05,
+          "division": {
+            "value": "Madrid"
+          },
+          "local": {
+            "value": "Hospital Universitario Ramon y Cajal"
+          },
+          "num_date": {
+            "confidence": [
+              2019.0359486507386,
+              2020.1371398068554
+            ],
+            "value": 2020.0989235277484
+          },
+          "region": {
+            "value": "Europe"
+          }
+        }
+      },
+      {
+        "branch_attrs": {
+          "mutations": {}
+        },
+        "children": [
+          {
+            "branch_attrs": {
+              "labels": {
+                "aa": "ORF3a: G251V; orf1ab: L3606F"
+              },
+              "mutations": {
+                "ORF3a": [
+                  "G251V"
+                ],
+                "nuc": [
+                  "G11083T",
+                  "G26144T"
+                ],
+                "orf1ab": [
+                  "L3606F"
+                ]
+              }
+            },
+            "children": [
+              {
+                "branch_attrs": {
+                  "mutations": {}
+                },
+                "name": "hCoV-19/Spain/Madrid_H2_16/2020|EPI_ISL_417952|2020-03-09",
+                "node_attrs": {
+                  "accession": "EPI_ISL_417952",
+                  "author": {
+                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                  },
+                  "city": {
+                    "value": "Madrid"
+                  },
+                  "country": {
+                    "value": "Spain"
+                  },
+                  "div": 6.688827691773065e-05,
+                  "division": {
+                    "value": "Madrid"
+                  },
+                  "local": {
+                    "value": "Hospital Universitario 12 de Octubre"
+                  },
+                  "num_date": {
+                    "confidence": [
+                      2020.1871584699454,
+                      2020.1871584699454
+                    ],
+                    "value": 2020.1871584699454
+                  },
+                  "region": {
+                    "value": "Europe"
+                  }
+                }
+              },
+              {
+                "branch_attrs": {
+                  "mutations": {
+                    "nuc": [
+                      "C14805T",
+                      "T17247C"
+                    ]
+                  }
+                },
+                "name": "hCoV-19/Spain/Madrid_LP14_3/2020|EPI_ISL_417975|2020-03-09",
+                "node_attrs": {
+                  "accession": "EPI_ISL_417975",
+                  "author": {
+                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                  },
+                  "city": {
+                    "value": "Madrid"
+                  },
+                  "country": {
+                    "value": "Spain"
+                  },
+                  "div": 0.0001337727764341169,
+                  "division": {
+                    "value": "Madrid"
+                  },
+                  "local": {
+                    "value": "Hospital Universitario La Paz"
+                  },
+                  "num_date": {
+                    "confidence": [
+                      2020.1871584699454,
+                      2020.1871584699454
+                    ],
+                    "value": 2020.1871584699454
+                  },
+                  "region": {
+                    "value": "Europe"
+                  }
+                }
+              }
+            ],
+            "name": "NODE_0000013",
+            "node_attrs": {
+              "country": {
+                "value": "Spain"
+              },
+              "div": 6.688827691772866e-05,
+              "division": {
+                "value": "Madrid"
+              },
+              "local": {
+                "value": "Hospital Universitario La Paz"
+              },
+              "num_date": {
+                "confidence": [
+                  2020.0118526146273,
+                  2020.1871584699454
+                ],
+                "value": 2020.1336522408121
               },
               "region": {
                 "value": "Europe"
@@ -464,41 +1236,64 @@
           {
             "branch_attrs": {
               "labels": {
-                "aa": "N: L197S; ORF3a: V196G; ORF8: S84L; S: D614G; orf1ab: Y3071F, P4715L"
+                "aa": "S: D614G; orf1ab: P4715L"
               },
               "mutations": {
-                "N": [
-                  "L197S"
-                ],
-                "ORF3a": [
-                  "V196G"
-                ],
-                "ORF8": [
-                  "S84L"
-                ],
                 "S": [
                   "D614G"
                 ],
                 "nuc": [
                   "C241T",
                   "C3037T",
-                  "T8782C",
-                  "A9477T",
                   "C14408T",
-                  "T14805C",
-                  "A23403G",
-                  "T25979G",
-                  "C28144T",
-                  "T28657C",
-                  "T28863C"
+                  "A23403G"
                 ],
                 "orf1ab": [
-                  "Y3071F",
                   "P4715L"
                 ]
               }
             },
             "children": [
+              {
+                "branch_attrs": {
+                  "mutations": {
+                    "nuc": [
+                      "T18099C"
+                    ]
+                  }
+                },
+                "name": "hCoV-19/Spain/Madrid_LP12_21/2020|EPI_ISL_417972|2020-03-09",
+                "node_attrs": {
+                  "accession": "EPI_ISL_417972",
+                  "author": {
+                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                  },
+                  "city": {
+                    "value": "Madrid"
+                  },
+                  "country": {
+                    "value": "Spain"
+                  },
+                  "div": 0.0001672246890858628,
+                  "division": {
+                    "value": "Madrid"
+                  },
+                  "local": {
+                    "value": "Hospital Universitario La Paz"
+                  },
+                  "num_date": {
+                    "confidence": [
+                      2020.1871584699454,
+                      2020.1871584699454
+                    ],
+                    "value": 2020.1871584699454
+                  },
+                  "region": {
+                    "value": "Europe"
+                  }
+                }
+              },
               {
                 "branch_attrs": {
                   "labels": {
@@ -533,7 +1328,7 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.0005017648615386571,
+                  "div": 0.0002675714290995065,
                   "division": {
                     "value": "Valencia"
                   },
@@ -563,14 +1358,43 @@
                 "children": [
                   {
                     "branch_attrs": {
-                      "mutations": {}
+                      "labels": {
+                        "aa": "E: P71L; ORF7a: L116P; S: N148K, N149H; orf1ab: D2980G, L4715P, R7030G"
+                      },
+                      "mutations": {
+                        "E": [
+                          "P71L"
+                        ],
+                        "ORF7a": [
+                          "L116P"
+                        ],
+                        "S": [
+                          "N148K",
+                          "N149H"
+                        ],
+                        "nuc": [
+                          "A361G",
+                          "A9204G",
+                          "T14408C",
+                          "A21352G",
+                          "C22006A",
+                          "A22007C",
+                          "C26456T",
+                          "T27740C"
+                        ],
+                        "orf1ab": [
+                          "D2980G",
+                          "L4715P",
+                          "R7030G"
+                        ]
+                      }
                     },
-                    "name": "hCoV-19/Spain/Madrid201442/2020|EPI_ISL_417010|2020-03-04",
+                    "name": "hCoV-19/Spain/Madrid_LP10_12/2020|EPI_ISL_417969|2020-03-09",
                     "node_attrs": {
-                      "accession": "EPI_ISL_417010",
+                      "accession": "EPI_ISL_417969",
                       "author": {
-                        "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Fernandez Roblas R",
-                        "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Fernandez Roblas R"
+                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
                       },
                       "city": {
                         "value": "Madrid"
@@ -578,19 +1402,116 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00040141851979576113,
+                      "div": 0.000434821760887754,
                       "division": {
                         "value": "Madrid"
                       },
                       "local": {
-                        "value": "FundacionJimenezDiaz"
+                        "value": "Hospital Universitario La Paz"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1734972677596,
-                          2020.1734972677596
+                          2020.1871584699454,
+                          2020.1871584699454
                         ],
-                        "value": 2020.1734972677596
+                        "value": 2020.1871584699454
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "N: P122L; orf1ab: S5792L"
+                      },
+                      "mutations": {
+                        "N": [
+                          "P122L"
+                        ],
+                        "nuc": [
+                          "C17639T",
+                          "C28638T"
+                        ],
+                        "orf1ab": [
+                          "S5792L"
+                        ]
+                      }
+                    },
+                    "name": "hCoV-19/Spain/Madrid_H11_40/2020|EPI_ISL_417967|2020-03-12",
+                    "node_attrs": {
+                      "accession": "EPI_ISL_417967",
+                      "author": {
+                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                      },
+                      "city": {
+                        "value": "Madrid"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.00023411613758087308,
+                      "division": {
+                        "value": "Madrid"
+                      },
+                      "local": {
+                        "value": "Hospital Universitario 12 de Octubre"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1953551912568,
+                          2020.1953551912568
+                        ],
+                        "value": 2020.1953551912568
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "S: Q954K"
+                      },
+                      "mutations": {
+                        "S": [
+                          "Q954K"
+                        ],
+                        "nuc": [
+                          "C6286T",
+                          "C24422A"
+                        ]
+                      }
+                    },
+                    "name": "hCoV-19/Spain/Madrid_LP15_4/2020|EPI_ISL_417978|2020-03-09",
+                    "node_attrs": {
+                      "accession": "EPI_ISL_417978",
+                      "author": {
+                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                      },
+                      "city": {
+                        "value": "Madrid"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.00023411757526704322,
+                      "division": {
+                        "value": "Madrid"
+                      },
+                      "local": {
+                        "value": "Hospital Universitario La Paz"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1871584699454,
+                          2020.1871584699454
+                        ],
+                        "value": 2020.1871584699454
                       },
                       "region": {
                         "value": "Europe"
@@ -606,268 +1527,176 @@
                         "branch_attrs": {
                           "mutations": {}
                         },
-                        "name": "hCoV-19/Spain/Galicia201663/2020|EPI_ISL_417007|2020-03-07",
-                        "node_attrs": {
-                          "accession": "EPI_ISL_417007",
-                          "author": {
-                            "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Garcia Costa J ",
-                            "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Garcia Costa J "
+                        "children": [
+                          {
+                            "branch_attrs": {
+                              "mutations": {
+                                "nuc": [
+                                  "C19017T"
+                                ]
+                              }
+                            },
+                            "name": "hCoV-19/Spain/Madrid_H3_10/2020|EPI_ISL_417954|2020-03-12",
+                            "node_attrs": {
+                              "accession": "EPI_ISL_417954",
+                              "author": {
+                                "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                                "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                              },
+                              "city": {
+                                "value": "Madrid"
+                              },
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 0.00020066956523490651,
+                              "division": {
+                                "value": "Madrid"
+                              },
+                              "local": {
+                                "value": "Hospital Universitario 12 de Octubre"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2020.1953551912568,
+                                  2020.1953551912568
+                                ],
+                                "value": 2020.1953551912568
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
                           },
-                          "city": {
-                            "value": "Ourense"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00040141851979576173,
-                          "division": {
-                            "value": "Santiago de Compostela"
-                          },
-                          "local": {
-                            "value": "HospitalSantaMariaNai"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.181693989071,
-                              2020.181693989071
+                          {
+                            "branch_attrs": {
+                              "mutations": {
+                                "nuc": [
+                                  "G29734C"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Madrid_H5_34/2020|EPI_ISL_417956|2020-03-11",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417956",
+                                  "author": {
+                                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                                  },
+                                  "city": {
+                                    "value": "Madrid"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00020066943451000485,
+                                  "division": {
+                                    "value": "Madrid"
+                                  },
+                                  "local": {
+                                    "value": "Hospital Universitario 12 de Octubre"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1926229508197,
+                                      2020.1926229508197
+                                    ],
+                                    "value": 2020.1926229508197
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "C11704T"
+                                    ]
+                                  }
+                                },
+                                "name": "hCoV-19/Spain/Madrid_H7_36/2020|EPI_ISL_417957|2020-03-12",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417957",
+                                  "author": {
+                                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                                  },
+                                  "city": {
+                                    "value": "Madrid"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023411293807695783,
+                                  "division": {
+                                    "value": "Madrid"
+                                  },
+                                  "local": {
+                                    "value": "Hospital Universitario 12 de Octubre"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1953551912568,
+                                      2020.1953551912568
+                                    ],
+                                    "value": 2020.1953551912568
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
                             ],
-                            "value": 2020.181693989071
-                          },
-                          "region": {
-                            "value": "Europe"
+                            "name": "NODE_0000004",
+                            "node_attrs": {
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 0.00020066943451000287,
+                              "division": {
+                                "value": "Madrid"
+                              },
+                              "local": {
+                                "value": "Hospital Universitario 12 de Octubre"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2020.0060059120306,
+                                  2020.1926229508197
+                                ],
+                                "value": 2020.1502638527559
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
                           }
-                        }
-                      },
-                      {
-                        "branch_attrs": {
-                          "mutations": {}
-                        },
-                        "name": "hCoV-19/Spain/Valencia1/2020|EPI_ISL_414495|2020-03-08",
-                        "node_attrs": {
-                          "accession": "EPI_ISL_414595",
-                          "city": {
-                            "value": "Valencia"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00040141851979576173,
-                          "division": {
-                            "value": "Valencia"
-                          },
-                          "local": {
-                            "value": "HospitalClinicoValencia"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1844262295083,
-                              2020.1844262295083
-                            ],
-                            "value": 2020.1844262295083
-                          },
-                          "region": {
-                            "value": "Europe"
-                          }
-                        }
-                      }
-                    ],
-                    "name": "NODE_0000005",
-                    "node_attrs": {
-                      "country": {
-                        "value": "Spain"
-                      },
-                      "div": 0.00040141851979576113,
-                      "division": {
-                        "value": "Valencia"
-                      },
-                      "local": {
-                        "value": "HospitalClinicoValencia"
-                      },
-                      "num_date": {
-                        "confidence": [
-                          2020.1709874829685,
-                          2020.181693989071
                         ],
-                        "value": 2020.181693989071
-                      },
-                      "region": {
-                        "value": "Europe"
-                      }
-                    }
-                  }
-                ],
-                "name": "NODE_0000000",
-                "node_attrs": {
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.00040141851979576054,
-                  "division": {
-                    "value": "Valencia"
-                  },
-                  "local": {
-                    "value": "HospitalGeneralValencia"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1672364950539,
-                      2020.1734972677596
-                    ],
-                    "value": 2020.1734972677596
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              }
-            ],
-            "name": "NODE_0000002",
-            "node_attrs": {
-              "country": {
-                "value": "Spain"
-              },
-              "div": 0.00036797379051356683,
-              "division": {
-                "value": "Valencia"
-              },
-              "local": {
-                "value": "HospitalGeneralValencia"
-              },
-              "num_date": {
-                "confidence": [
-                  2020.1518593322717,
-                  2020.1680327868853
-                ],
-                "value": 2020.1634848228714
-              },
-              "region": {
-                "value": "Europe"
-              }
-            }
-          },
-          {
-            "branch_attrs": {
-              "mutations": {}
-            },
-            "children": [
-              {
-                "branch_attrs": {
-                  "mutations": {}
-                },
-                "name": "hCoV-19/Spain/Valencia4/2020|EPI_ISL_416483|2020-02-26",
-                "node_attrs": {
-                  "accession": "EPI_ISL_416483",
-                  "author": {
-                    "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                    "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                  },
-                  "city": {
-                    "value": "Valencia"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 1.865380192499847e-18,
-                  "division": {
-                    "value": "Valencia"
-                  },
-                  "local": {
-                    "value": "HospitalGeneralValencia"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1543715846994,
-                      2020.1543715846994
-                    ],
-                    "value": 2020.1543715846994
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              },
-              {
-                "branch_attrs": {
-                  "mutations": {}
-                },
-                "children": [
-                  {
-                    "branch_attrs": {
-                      "mutations": {}
-                    },
-                    "name": "hCoV-19/Spain/Valencia5/2020|EPI_ISL_416484|2020-02-27",
-                    "node_attrs": {
-                      "accession": "EPI_ISL_416484",
-                      "author": {
-                        "author": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas",
-                        "value": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas"
-                      },
-                      "city": {
-                        "value": "Valencia"
-                      },
-                      "country": {
-                        "value": "Spain"
-                      },
-                      "div": 2.487173589999796e-18,
-                      "division": {
-                        "value": "Valencia"
-                      },
-                      "local": {
-                        "value": "HospitalGeneralValencia"
-                      },
-                      "num_date": {
-                        "confidence": [
-                          2020.1571038251366,
-                          2020.1571038251366
-                        ],
-                        "value": 2020.1571038251366
-                      },
-                      "region": {
-                        "value": "Europe"
-                      }
-                    }
-                  },
-                  {
-                    "branch_attrs": {
-                      "mutations": {}
-                    },
-                    "children": [
-                      {
-                        "branch_attrs": {
-                          "labels": {
-                            "aa": "S: S940F"
-                          },
-                          "mutations": {
-                            "S": [
-                              "S940F"
-                            ],
-                            "nuc": [
-                              "C24381T"
-                            ]
-                          }
-                        },
-                        "name": "hCoV-19/Spain/Valencia2/2020|EPI_ISL_414496|2020-03-04",
+                        "name": "NODE_0000015",
                         "node_attrs": {
-                          "accession": "EPI_ISL_414596",
-                          "city": {
-                            "value": "Valencia"
-                          },
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 3.3445048338850706e-05,
+                          "div": 0.0001672250696790491,
                           "division": {
-                            "value": "Valencia"
+                            "value": "Madrid"
                           },
                           "local": {
-                            "value": "HospitalClinicoValencia"
+                            "value": "Hospital Universitario 12 de Octubre"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1734972677596,
-                              2020.1734972677596
+                              2019.583123696172,
+                              2020.185927760323
                             ],
-                            "value": 2020.1734972677596
+                            "value": 2020.13928739494
                           },
                           "region": {
                             "value": "Europe"
@@ -883,32 +1712,94 @@
                             "branch_attrs": {
                               "mutations": {}
                             },
-                            "name": "hCoV-19/Spain/Valencia3/2020|EPI_ISL_414598|2020-03-05",
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Madrid_H10_39/2020|EPI_ISL_417963|2020-03-12",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417963",
+                                  "author": {
+                                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                                  },
+                                  "city": {
+                                    "value": "Madrid"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00016722506967905307,
+                                  "division": {
+                                    "value": "Madrid"
+                                  },
+                                  "local": {
+                                    "value": "Hospital Universitario 12 de Octubre"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1953551912568,
+                                      2020.1953551912568
+                                    ],
+                                    "value": 2020.1953551912568
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Valencia1/2020|EPI_ISL_414495|2020-03-08",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_414595",
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00016722506967905307,
+                                  "division": {
+                                    "value": "Valencia"
+                                  },
+                                  "local": {
+                                    "value": "HospitalClinicoValencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1844262295083,
+                                      2020.1844262295083
+                                    ],
+                                    "value": 2020.1844262295083
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000019",
                             "node_attrs": {
-                              "accession": "EPI_ISL_414598",
-                              "author": {
-                                "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                              },
-                              "city": {
-                                "value": "Valencia"
-                              },
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 3.7303915049740624e-18,
+                              "div": 0.0001672250696790511,
                               "division": {
-                                "value": "Valencia"
+                                "value": "Madrid"
                               },
                               "local": {
-                                "value": "HospitalClinicoValencia"
+                                "value": "Hospital Universitario 12 de Octubre"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.1762295081967,
-                                  2020.1762295081967
+                                  2020.130047397339,
+                                  2020.1844262295083
                                 ],
-                                "value": 2020.1762295081967
+                                "value": 2020.1438093757813
                               },
                               "region": {
                                 "value": "Europe"
@@ -917,38 +1808,100 @@
                           },
                           {
                             "branch_attrs": {
-                              "mutations": {
-                                "nuc": [
-                                  "C18582T"
-                                ]
-                              }
+                              "mutations": {}
                             },
-                            "name": "hCoV-19/Spain/CastillayLeon201437/2020|EPI_ISL_416994|2020-03-04",
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Galicia201663/2020|EPI_ISL_417007|2020-03-07",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417007",
+                                  "author": {
+                                    "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Garcia Costa J ",
+                                    "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Garcia Costa J "
+                                  },
+                                  "city": {
+                                    "value": "Ourense"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00016722506967905307,
+                                  "division": {
+                                    "value": "Santiago de Compostela"
+                                  },
+                                  "local": {
+                                    "value": "HospitalSantaMariaNai"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.181693989071,
+                                      2020.181693989071
+                                    ],
+                                    "value": 2020.181693989071
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Madrid201442/2020|EPI_ISL_417010|2020-03-04",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417010",
+                                  "author": {
+                                    "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Fernandez Roblas R",
+                                    "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Fernandez Roblas R"
+                                  },
+                                  "city": {
+                                    "value": "Madrid"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00016722506967905307,
+                                  "division": {
+                                    "value": "Madrid"
+                                  },
+                                  "local": {
+                                    "value": "FundacionJimenezDiaz"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1734972677596,
+                                      2020.1734972677596
+                                    ],
+                                    "value": 2020.1734972677596
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000020",
                             "node_attrs": {
-                              "accession": "EPI_ISL_416994",
-                              "author": {
-                                "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Megias Lobon G ",
-                                "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Megias Lobon G "
-                              },
-                              "city": {
-                                "value": "Burgos"
-                              },
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 3.344504833885133e-05,
+                              "div": 0.0001672250696790511,
                               "division": {
-                                "value": "Leon"
+                                "value": "Madrid"
                               },
                               "local": {
-                                "value": "HospitalUniversitarioDeBurgos"
+                                "value": "HospitalSantaMariaNai"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.1734972677596,
+                                  2020.138086279668,
                                   2020.1734972677596
                                 ],
-                                "value": 2020.1734972677596
+                                "value": 2020.1716760270328
                               },
                               "region": {
                                 "value": "Europe"
@@ -956,24 +1909,24 @@
                             }
                           }
                         ],
-                        "name": "NODE_0000009",
+                        "name": "NODE_0000018",
                         "node_attrs": {
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 3.108966987499745e-18,
+                          "div": 0.0001672250696790491,
                           "division": {
-                            "value": "Valencia"
+                            "value": "Madrid"
                           },
                           "local": {
-                            "value": "HospitalClinicoValencia"
+                            "value": "Hospital Universitario 12 de Octubre"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1614634826547,
-                              2020.1734972677596
+                              2019.581851977667,
+                              2020.1721369399002
                             ],
-                            "value": 2020.1700947564702
+                            "value": 2020.1380408096916
                           },
                           "region": {
                             "value": "Europe"
@@ -981,24 +1934,24 @@
                         }
                       }
                     ],
-                    "name": "NODE_0000008",
+                    "name": "NODE_0000012",
                     "node_attrs": {
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 2.487173589999796e-18,
+                      "div": 0.00016722506967904713,
                       "division": {
-                        "value": "Valencia"
+                        "value": "Madrid"
                       },
                       "local": {
-                        "value": "HospitalClinicoValencia"
+                        "value": "Hospital Universitario 12 de Octubre"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.156167654988,
-                          2020.1725246391388
+                          2019.5859102810007,
+                          2020.1678791547638
                         ],
-                        "value": 2020.1633625784243
+                        "value": 2020.1391567645692
                       },
                       "region": {
                         "value": "Europe"
@@ -1006,24 +1959,24 @@
                     }
                   }
                 ],
-                "name": "NODE_0000007",
+                "name": "NODE_0000008",
                 "node_attrs": {
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 1.865380192499847e-18,
+                  "div": 0.00016722506967904515,
                   "division": {
-                    "value": "Valencia"
+                    "value": "Madrid"
                   },
                   "local": {
-                    "value": "HospitalGeneralValencia"
+                    "value": "Hospital Universitario La Paz"
                   },
                   "num_date": {
                     "confidence": [
-                      2020.153006866293,
-                      2020.1571038251366
+                      2019.2982700365428,
+                      2020.161381697766
                     ],
-                    "value": 2020.1571038251366
+                    "value": 2020.1329286942885
                   },
                   "region": {
                     "value": "Europe"
@@ -1031,24 +1984,24 @@
                 }
               }
             ],
-            "name": "NODE_0000006",
+            "name": "NODE_0000009",
             "node_attrs": {
               "country": {
                 "value": "Spain"
               },
-              "div": 1.243586794999898e-18,
+              "div": 0.00013378082365025348,
               "division": {
-                "value": "Valencia"
+                "value": "Madrid"
               },
               "local": {
-                "value": "HospitalGeneralValencia"
+                "value": "Hospital Universitario La Paz"
               },
               "num_date": {
                 "confidence": [
-                  2020.1505488953735,
-                  2020.1543715846994
+                  2019.075541274842,
+                  2020.1599431738825
                 ],
-                "value": 2020.154365152953
+                "value": 2020.1166475351079
               },
               "region": {
                 "value": "Europe"
@@ -1056,24 +2009,24 @@
             }
           }
         ],
-        "name": "NODE_0000004",
+        "name": "NODE_0000011",
         "node_attrs": {
           "country": {
             "value": "Spain"
           },
-          "div": 6.21793397499949e-19,
+          "div": 1.9839058235672754e-18,
           "division": {
-            "value": "Valencia"
+            "value": "Madrid"
           },
           "local": {
-            "value": "HospitalGeneralValencia"
+            "value": "Hospital Universitario La Paz"
           },
           "num_date": {
             "confidence": [
-              2019.9639430169013,
-              2020.1540459085686
+              2018.1940420116514,
+              2020.1553577672378
             ],
-            "value": 2020.149127033246
+            "value": 2020.0365065299163
           },
           "region": {
             "value": "Europe"
@@ -1081,24 +2034,24 @@
         }
       }
     ],
-    "name": "NODE_0000001",
+    "name": "NODE_0000000",
     "node_attrs": {
       "country": {
         "value": "Spain"
       },
       "div": 0,
       "division": {
-        "value": "Valencia"
+        "value": "Madrid"
       },
       "local": {
-        "value": "HospitalGeneralValencia"
+        "value": "Hospital Universitario Ramon y Cajal"
       },
       "num_date": {
         "confidence": [
-          2019.9639536150291,
-          2020.1536531005938
+          2018.1954436974033,
+          2020.1318692264022
         ],
-        "value": 2020.1487634937
+        "value": 2020.0184396926923
       },
       "region": {
         "value": "Europe"
