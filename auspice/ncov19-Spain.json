@@ -377,7 +377,7 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 0.00020066738621545938,
+              "div": 0.00016722125964232744,
               "local": {
                 "value": "Hospital Universitario La Paz"
               },
@@ -423,7 +423,7 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 0.0001672228170921301,
+              "div": 0.00013377671861314685,
               "local": {
                 "value": "HOSPITAL GENERAL DE SEGOVIA"
               },
@@ -472,7 +472,7 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00020066425119619468,
+                  "div": 0.00016721813878900902,
                   "local": {
                     "value": "Hospital Universitario La Paz"
                   },
@@ -537,7 +537,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00033444305246422515,
+                      "div": 0.0003009969317787956,
                       "local": {
                         "value": "Hospital Universitari Vall d'Hebron (HUVH)"
                       },
@@ -583,7 +583,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00030100018707970833,
+                      "div": 0.0002675540315824019,
                       "local": {
                         "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                       },
@@ -608,16 +608,16 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00026755697822008215,
+                  "div": 0.00023411080439376088,
                   "local": {
                     "value": "Hospital Universitari Vall d'Hebron (HUVH)"
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1549845752927,
+                      2020.1332834186203,
                       2020.1680327868853
                     ],
-                    "value": 2020.1636303381315
+                    "value": 2020.1651909826985
                   },
                   "region": {
                     "value": "Europe"
@@ -682,7 +682,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00046825325842743805,
+                      "div": 0.0004348071286602521,
                       "local": {
                         "value": "Hospital Universitario La Paz"
                       },
@@ -732,7 +732,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00026755246949266583,
+                      "div": 0.00023410633822843166,
                       "local": {
                         "value": "Hospital Universitario 12 de Octubre"
                       },
@@ -779,7 +779,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00026755425333112353,
+                      "div": 0.00023410806559054337,
                       "local": {
                         "value": "Hospital Universitario La Paz"
                       },
@@ -829,7 +829,7 @@
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.0002341073093897023,
+                              "div": 0.00020066122191115642,
                               "local": {
                                 "value": "Hospital Universitario 12 de Octubre"
                               },
@@ -874,7 +874,7 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.00023410737534469177,
+                                  "div": 0.0002006613396857083,
                                   "local": {
                                     "value": "Hospital Universitario 12 de Octubre"
                                   },
@@ -919,7 +919,7 @@
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.0002675490240809504,
+                                      "div": 0.0002341029685009042,
                                       "local": {
                                         "value": "Hospital Universitario 12 de Octubre"
                                       },
@@ -955,7 +955,7 @@
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.0002675490240809504,
+                                      "div": 0.0002341029685009042,
                                       "local": {
                                         "value": "Hospital Universitario 12 de Octubre"
                                       },
@@ -980,16 +980,16 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.000267549024080931,
+                                  "div": 0.0002341029685008848,
                                   "local": {
                                     "value": "Hospital Universitario 12 de Octubre"
                                   },
                                   "num_date": {
                                     "confidence": [
-                                      2020.1704712586923,
+                                      2020.1735067832362,
                                       2020.1953551912568
                                     ],
-                                    "value": 2020.1804793245624
+                                    "value": 2020.1921649017265
                                   },
                                   "region": {
                                     "value": "Europe"
@@ -1005,16 +1005,16 @@
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.00023410737534467236,
+                              "div": 0.0002006613396856889,
                               "local": {
                                 "value": "Hospital Universitario 12 de Octubre"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.165046070906,
-                                  2020.191296717395
+                                  2020.1515545167379,
+                                  2020.1853135062754
                                 ],
-                                "value": 2020.1706325811506
+                                "value": 2020.175710064264
                               },
                               "region": {
                                 "value": "Europe"
@@ -1030,16 +1030,16 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00020066458871092458,
+                          "div": 0.00016721848068609646,
                           "local": {
                             "value": "Hospital Universitario 12 de Octubre"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1558825004681,
-                              2020.184773029879
+                              2020.1336137605444,
+                              2020.1741971673707
                             ],
-                            "value": 2020.1660625952964
+                            "value": 2020.1641574394785
                           },
                           "region": {
                             "value": "Europe"
@@ -1076,7 +1076,7 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.0002006645887109634,
+                                  "div": 0.00016721848068613527,
                                   "local": {
                                     "value": "FUNDACION JIMENEZ DIAZ"
                                   },
@@ -1116,7 +1116,7 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.00023410854022459554,
+                                  "div": 0.00020066240264318192,
                                   "local": {
                                     "value": "Hospital Universitari Germans Trias i Pujol"
                                   },
@@ -1141,16 +1141,16 @@
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.00020066458871094398,
+                              "div": 0.00016721848068611587,
                               "local": {
                                 "value": "Hospital Universitari Germans Trias i Pujol"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.1653596557835,
+                                  2020.1516617412665,
                                   2020.1734972677596
                                 ],
-                                "value": 2020.1734972677596
+                                "value": 2020.1726234512307
                               },
                               "region": {
                                 "value": "Europe"
@@ -1187,7 +1187,7 @@
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.0002006645887109828,
+                                      "div": 0.00016721848068615468,
                                       "local": {
                                         "value": "Hospital Universitari Vall d'Hebron (HUVH)"
                                       },
@@ -1223,7 +1223,7 @@
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.0002006645887109828,
+                                      "div": 0.00016721848068615468,
                                       "local": {
                                         "value": "Hospital Universitario 12 de Octubre"
                                       },
@@ -1248,16 +1248,16 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.0002006645887109634,
+                                  "div": 0.00016721848068613527,
                                   "local": {
                                     "value": "Hospital Universitario 12 de Octubre"
                                   },
                                   "num_date": {
                                     "confidence": [
-                                      2020.167643171411,
+                                      2020.1497740876227,
                                       2020.1953551912568
                                     ],
-                                    "value": 2020.1736223438522
+                                    "value": 2020.1774505557041
                                   },
                                   "region": {
                                     "value": "Europe"
@@ -1289,7 +1289,7 @@
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.0002006645887109828,
+                                      "div": 0.00016721848068615468,
                                       "local": {
                                         "value": "HOSPITAL SANTA MARIA NAI"
                                       },
@@ -1325,7 +1325,7 @@
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.0002006645887109828,
+                                      "div": 0.00016721848068615468,
                                       "local": {
                                         "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
                                       },
@@ -1350,16 +1350,16 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.0002006645887109634,
+                                  "div": 0.00016721848068613527,
                                   "local": {
                                     "value": "HOSPITAL SANTA MARIA NAI"
                                   },
                                   "num_date": {
                                     "confidence": [
-                                      2020.1661446244902,
+                                      2020.14980872136,
                                       2020.181693989071
                                     ],
-                                    "value": 2020.1769882961612
+                                    "value": 2020.180920443235
                                   },
                                   "region": {
                                     "value": "Europe"
@@ -1375,16 +1375,16 @@
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.00020066458871094398,
+                              "div": 0.00016721848068611587,
                               "local": {
                                 "value": "Hospital Universitario 12 de Octubre"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.154243865023,
-                                  2020.1809308175339
+                                  2020.1465054981668,
+                                  2020.1787740630602
                                 ],
-                                "value": 2020.1698737553643
+                                "value": 2020.1694963693112
                               },
                               "region": {
                                 "value": "Europe"
@@ -1400,16 +1400,16 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00020066458871092458,
+                          "div": 0.00016721848068609646,
                           "local": {
                             "value": "Hospital Universitario 12 de Octubre"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1582218055928,
-                              2020.1718372796634
+                              2020.1491586544562,
+                              2020.170620484479
                             ],
-                            "value": 2020.1659535890437
+                            "value": 2020.164399485077
                           },
                           "region": {
                             "value": "Europe"
@@ -1425,16 +1425,16 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00020066458871090517,
+                      "div": 0.00016721848068607705,
                       "local": {
                         "value": "Hospital Universitario 12 de Octubre"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1562242507614,
-                          2020.1701293501028
+                          2020.1325153430764,
+                          2020.1675604239483
                         ],
-                        "value": 2020.1622085332217
+                        "value": 2020.1614454716803
                       },
                       "region": {
                         "value": "Europe"
@@ -1450,16 +1450,16 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00020066458871088576,
+                  "div": 0.00016721848068605765,
                   "local": {
                     "value": "Hospital Universitario La Paz"
                   },
                   "num_date": {
                     "confidence": [
-                      2019.5456177770484,
-                      2020.1694129950292
+                      2018.8345382367424,
+                      2020.1637510504613
                     ],
-                    "value": 2020.15836999431
+                    "value": 2020.1608573120684
                   },
                   "region": {
                     "value": "Europe"
@@ -1475,16 +1475,16 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 0.0001672220600580545,
+              "div": 0.00013377594763574932,
               "local": {
                 "value": "Hospital Universitario La Paz"
               },
               "num_date": {
                 "confidence": [
-                  2019.4597540408743,
-                  2020.1654728747894
+                  2018.6445604063724,
+                  2020.1542870039218
                 ],
-                "value": 2020.1526291741125
+                "value": 2020.1478369489605
               },
               "region": {
                 "value": "Europe"
@@ -1500,16 +1500,16 @@
           "country": {
             "value": "Spain"
           },
-          "div": 0.0001337790739084433,
+          "div": 0.00010033298544901154,
           "local": {
             "value": "Hospital Universitario La Paz"
           },
           "num_date": {
             "confidence": [
-              2019.3618401495785,
-              2020.1516393442623
+              2018.42728214495,
+              2020.1476374355277
             ],
-            "value": 2020.137219299178
+            "value": 2020.1318344309152
           },
           "region": {
             "value": "Europe"
@@ -1541,7 +1541,7 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 3.8819097410674356e-17,
+              "div": 3.344166005696764e-05,
               "local": {
                 "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
               },
@@ -1597,7 +1597,7 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00010033006216296158,
+                  "div": 0.0001337717640812164,
                   "local": {
                     "value": "Hospital Universitario 12 de Octubre"
                   },
@@ -1646,7 +1646,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.0001672104674689932,
+                      "div": 0.00020065215276531296,
                       "local": {
                         "value": "Hospital Universitario La Paz"
                       },
@@ -1687,7 +1687,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00020065303762692322,
+                      "div": 0.00023409473999322464,
                       "local": {
                         "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
                       },
@@ -1712,16 +1712,16 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00013377024712380597,
+                  "div": 0.0001672119599493592,
                   "local": {
                     "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1450035206021,
-                      2020.1598360655737
+                      2020.1322250198411,
+                      2020.1589344993486
                     ],
-                    "value": 2020.1548790365403
+                    "value": 2020.154152769423
                   },
                   "region": {
                     "value": "Europe"
@@ -1737,16 +1737,16 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 0.00010033006216294216,
+              "div": 0.000133771764081197,
               "local": {
                 "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
               },
               "num_date": {
                 "confidence": [
-                  2020.1240005317532,
-                  2020.157706477129
+                  2020.1128038753611,
+                  2020.1515740996451
                 ],
-                "value": 2020.1476036358074
+                "value": 2020.1356843710694
               },
               "region": {
                 "value": "Europe"
@@ -1806,7 +1806,7 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00016721302147135907,
+                  "div": 0.00020065456767735904,
                   "local": {
                     "value": "Hospital Universitario Ramon y Cajal"
                   },
@@ -1856,7 +1856,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.0001337696369895717,
+                      "div": 0.00016721142880318982,
                       "local": {
                         "value": "Hospital Universitario Ramon y Cajal"
                       },
@@ -1892,7 +1892,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 6.688180060166916e-05,
+                      "div": 0.00010032347856231267,
                       "local": {
                         "value": "FUNDACION JIMENEZ DIAZ"
                       },
@@ -1953,7 +1953,7 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00013376790915090795,
+                          "div": 0.00016720961696514432,
                           "local": {
                             "value": "Hospital General y Universitario de Guadalajara"
                           },
@@ -1989,7 +1989,7 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00010032343903224576,
+                          "div": 0.00013376516768016168,
                           "local": {
                             "value": "Hospital General y Universitario de Guadalajara"
                           },
@@ -2014,16 +2014,16 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00010032343903222635,
+                      "div": 0.00013376516768014228,
                       "local": {
                         "value": "Hospital General y Universitario de Guadalajara"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1540831783113,
+                          2020.1498733778642,
                           2020.1653005464482
                         ],
-                        "value": 2020.1618765766596
+                        "value": 2020.162458638415
                       },
                       "region": {
                         "value": "Europe"
@@ -2039,16 +2039,16 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 6.688180060164975e-05,
+                  "div": 0.00010032347856229326,
                   "local": {
                     "value": "Hospital Universitario Ramon y Cajal"
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1425265047112,
-                      2020.164075220374
+                      2020.1321812248207,
+                      2020.161082898927
                     ],
-                    "value": 2020.1529705549196
+                    "value": 2020.1509602098943
                   },
                   "region": {
                     "value": "Europe"
@@ -2095,7 +2095,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00013377307879258482,
+                      "div": 0.00016721472650937225,
                       "local": {
                         "value": "Hospital Universitario Ramon y Cajal"
                       },
@@ -2131,6 +2131,46 @@
                         "branch_attrs": {
                           "mutations": {
                             "nuc": [
+                              "C18582T"
+                            ]
+                          }
+                        },
+                        "name": "hCoV-19/Spain/CastillayLeon201437/2020|EPI_ISL_416994|2020-03-04",
+                        "node_attrs": {
+                          "accession": "EPI_ISL_416994",
+                          "author": {
+                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez P. Jimenez M. Zaballos A. Monzon, S. Varona, S. Julia M. Cuesta I. Megias Lobon, G. Hospital: ------ ",
+                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez P. Jimenez M. Zaballos A. Monzon, S. Varona, S. Julia M. Cuesta I. Megias Lobon, G. Hospital: ------ "
+                          },
+                          "autonomous_community": {
+                            "value": "Castilla y Leon"
+                          },
+                          "city": {
+                            "value": "Burgos"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.0002675465848760248,
+                          "local": {
+                            "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1734972677596,
+                              2020.1734972677596
+                            ],
+                            "value": 2020.1734972677596
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "mutations": {
+                            "nuc": [
                               "T5290C"
                             ]
                           }
@@ -2151,7 +2191,7 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00023410414357181688,
+                          "div": 0.0002675458459798084,
                           "local": {
                             "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                           },
@@ -2161,6 +2201,98 @@
                               2020.1571038251366
                             ],
                             "value": 2020.1571038251366
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "labels": {
+                            "aa": "S: S940F"
+                          },
+                          "mutations": {
+                            "S": [
+                              "S940F"
+                            ],
+                            "nuc": [
+                              "C24381T"
+                            ]
+                          }
+                        },
+                        "name": "hCoV-19/Spain/Valencia2/2020|EPI_ISL_414496|2020-03-04",
+                        "node_attrs": {
+                          "accession": "EPI_ISL_414496",
+                          "author": {
+                            "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                            "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                          },
+                          "autonomous_community": {
+                            "value": "Comunitat Valenciana"
+                          },
+                          "city": {
+                            "value": "Valencia"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.0002675494506069704,
+                          "local": {
+                            "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1734972677596,
+                              2020.1734972677596
+                            ],
+                            "value": 2020.1734972677596
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "labels": {
+                            "aa": "orf1ab: P1786S"
+                          },
+                          "mutations": {
+                            "nuc": [
+                              "C5621T"
+                            ],
+                            "orf1ab": [
+                              "P1786S"
+                            ]
+                          }
+                        },
+                        "name": "hCoV-19/Spain/Valencia10/2020|EPI_ISL_417206|2020-03-06",
+                        "node_attrs": {
+                          "accession": "EPI_ISL_417206",
+                          "author": {
+                            "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas ",
+                            "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas "
+                          },
+                          "autonomous_community": {
+                            "value": "Comunitat Valenciana"
+                          },
+                          "city": {
+                            "value": "Valencia"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.0002675558643755153,
+                          "local": {
+                            "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1789617486338,
+                              2020.1789617486338
+                            ],
+                            "value": 2020.1789617486338
                           },
                           "region": {
                             "value": "Europe"
@@ -2179,24 +2311,14 @@
                             "children": [
                               {
                                 "branch_attrs": {
-                                  "labels": {
-                                    "aa": "S: S940F"
-                                  },
-                                  "mutations": {
-                                    "S": [
-                                      "S940F"
-                                    ],
-                                    "nuc": [
-                                      "C24381T"
-                                    ]
-                                  }
+                                  "mutations": {}
                                 },
-                                "name": "hCoV-19/Spain/Valencia2/2020|EPI_ISL_414496|2020-03-04",
+                                "name": "hCoV-19/Spain/Valencia4/2020|EPI_ISL_416483|2020-02-26",
                                 "node_attrs": {
-                                  "accession": "EPI_ISL_414496",
+                                  "accession": "EPI_ISL_416483",
                                   "author": {
-                                    "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                    "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                    "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                    "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
                                   },
                                   "autonomous_community": {
                                     "value": "Comunitat Valenciana"
@@ -2207,327 +2329,13 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.00023410778062004923,
-                                  "local": {
-                                    "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
-                                  },
-                                  "num_date": {
-                                    "confidence": [
-                                      2020.1734972677596,
-                                      2020.1734972677596
-                                    ],
-                                    "value": 2020.1734972677596
-                                  },
-                                  "region": {
-                                    "value": "Europe"
-                                  }
-                                }
-                              },
-                              {
-                                "branch_attrs": {
-                                  "mutations": {}
-                                },
-                                "children": [
-                                  {
-                                    "branch_attrs": {
-                                      "labels": {
-                                        "aa": "orf1ab: P1786S"
-                                      },
-                                      "mutations": {
-                                        "nuc": [
-                                          "C5621T"
-                                        ],
-                                        "orf1ab": [
-                                          "P1786S"
-                                        ]
-                                      }
-                                    },
-                                    "name": "hCoV-19/Spain/Valencia10/2020|EPI_ISL_417206|2020-03-06",
-                                    "node_attrs": {
-                                      "accession": "EPI_ISL_417206",
-                                      "author": {
-                                        "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas ",
-                                        "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas "
-                                      },
-                                      "autonomous_community": {
-                                        "value": "Comunitat Valenciana"
-                                      },
-                                      "city": {
-                                        "value": "Valencia"
-                                      },
-                                      "country": {
-                                        "value": "Spain"
-                                      },
-                                      "div": 0.00023411414628447303,
-                                      "local": {
-                                        "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
-                                      },
-                                      "num_date": {
-                                        "confidence": [
-                                          2020.1789617486338,
-                                          2020.1789617486338
-                                        ],
-                                        "value": 2020.1789617486338
-                                      },
-                                      "region": {
-                                        "value": "Europe"
-                                      }
-                                    }
-                                  },
-                                  {
-                                    "branch_attrs": {
-                                      "mutations": {
-                                        "nuc": [
-                                          "C18582T"
-                                        ]
-                                      }
-                                    },
-                                    "name": "hCoV-19/Spain/CastillayLeon201437/2020|EPI_ISL_416994|2020-03-04",
-                                    "node_attrs": {
-                                      "accession": "EPI_ISL_416994",
-                                      "author": {
-                                        "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez P. Jimenez M. Zaballos A. Monzon, S. Varona, S. Julia M. Cuesta I. Megias Lobon, G. Hospital: ------ ",
-                                        "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez P. Jimenez M. Zaballos A. Monzon, S. Varona, S. Julia M. Cuesta I. Megias Lobon, G. Hospital: ------ "
-                                      },
-                                      "autonomous_community": {
-                                        "value": "Castilla y Leon"
-                                      },
-                                      "city": {
-                                        "value": "Burgos"
-                                      },
-                                      "country": {
-                                        "value": "Spain"
-                                      },
-                                      "div": 0.0002341049402406862,
-                                      "local": {
-                                        "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
-                                      },
-                                      "num_date": {
-                                        "confidence": [
-                                          2020.1734972677596,
-                                          2020.1734972677596
-                                        ],
-                                        "value": 2020.1734972677596
-                                      },
-                                      "region": {
-                                        "value": "Europe"
-                                      }
-                                    }
-                                  }
-                                ],
-                                "name": "NODE_0000036",
-                                "node_attrs": {
-                                  "autonomous_community": {
-                                    "value": "Comunitat Valenciana"
-                                  },
-                                  "country": {
-                                    "value": "Spain"
-                                  },
-                                  "div": 0.00020066151255129544,
+                                  "div": 0.00023410318126224045,
                                   "local": {
                                     "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                   },
                                   "num_date": {
                                     "confidence": [
-                                      2020.153885887361,
-                                      2020.1734972677596
-                                    ],
-                                    "value": 2020.1642791748868
-                                  },
-                                  "region": {
-                                    "value": "Europe"
-                                  }
-                                }
-                              }
-                            ],
-                            "name": "NODE_0000035",
-                            "node_attrs": {
-                              "autonomous_community": {
-                                "value": "Comunitat Valenciana"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.00020066151255127603,
-                              "local": {
-                                "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1468854233995,
-                                  2020.171608476307
-                                ],
-                                "value": 2020.1538632573324
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
-                              "mutations": {}
-                            },
-                            "children": [
-                              {
-                                "branch_attrs": {
-                                  "mutations": {}
-                                },
-                                "children": [
-                                  {
-                                    "branch_attrs": {
-                                      "mutations": {}
-                                    },
-                                    "name": "hCoV-19/Spain/Valencia4/2020|EPI_ISL_416483|2020-02-26",
-                                    "node_attrs": {
-                                      "accession": "EPI_ISL_416483",
-                                      "author": {
-                                        "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                        "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                                      },
-                                      "autonomous_community": {
-                                        "value": "Comunitat Valenciana"
-                                      },
-                                      "city": {
-                                        "value": "Valencia"
-                                      },
-                                      "country": {
-                                        "value": "Spain"
-                                      },
-                                      "div": 0.00020066151255131485,
-                                      "local": {
-                                        "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
-                                      },
-                                      "num_date": {
-                                        "confidence": [
-                                          2020.1543715846994,
-                                          2020.1543715846994
-                                        ],
-                                        "value": 2020.1543715846994
-                                      },
-                                      "region": {
-                                        "value": "Europe"
-                                      }
-                                    }
-                                  },
-                                  {
-                                    "branch_attrs": {
-                                      "mutations": {}
-                                    },
-                                    "children": [
-                                      {
-                                        "branch_attrs": {
-                                          "mutations": {}
-                                        },
-                                        "name": "hCoV-19/Spain/Valencia3/2020|EPI_ISL_414598|2020-03-05",
-                                        "node_attrs": {
-                                          "accession": "EPI_ISL_414598",
-                                          "author": {
-                                            "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                            "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                                          },
-                                          "autonomous_community": {
-                                            "value": "Comunitat Valenciana"
-                                          },
-                                          "city": {
-                                            "value": "Valencia"
-                                          },
-                                          "country": {
-                                            "value": "Spain"
-                                          },
-                                          "div": 0.00020066151255133426,
-                                          "local": {
-                                            "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
-                                          },
-                                          "num_date": {
-                                            "confidence": [
-                                              2020.1762295081967,
-                                              2020.1762295081967
-                                            ],
-                                            "value": 2020.1762295081967
-                                          },
-                                          "region": {
-                                            "value": "Europe"
-                                          }
-                                        }
-                                      },
-                                      {
-                                        "branch_attrs": {
-                                          "mutations": {}
-                                        },
-                                        "name": "hCoV-19/Spain/PaisVasco201382/2020|EPI_ISL_418253|2020-03-02",
-                                        "node_attrs": {
-                                          "accession": "EPI_ISL_418253",
-                                          "author": {
-                                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gomez-Gonzalez C.",
-                                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gomez-Gonzalez C."
-                                          },
-                                          "autonomous_community": {
-                                            "value": "Alava"
-                                          },
-                                          "city": {
-                                            "value": "Vitoria-Gasteiz"
-                                          },
-                                          "country": {
-                                            "value": "Spain"
-                                          },
-                                          "div": 0.00020066151255133426,
-                                          "local": {
-                                            "value": "HOSPITAL TXAGORRITXU"
-                                          },
-                                          "num_date": {
-                                            "confidence": [
-                                              2020.1680327868853,
-                                              2020.1680327868853
-                                            ],
-                                            "value": 2020.1680327868853
-                                          },
-                                          "region": {
-                                            "value": "Europe"
-                                          }
-                                        }
-                                      }
-                                    ],
-                                    "name": "NODE_0000030",
-                                    "node_attrs": {
-                                      "autonomous_community": {
-                                        "value": "Comunitat Valenciana"
-                                      },
-                                      "country": {
-                                        "value": "Spain"
-                                      },
-                                      "div": 0.00020066151255131485,
-                                      "local": {
-                                        "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
-                                      },
-                                      "num_date": {
-                                        "confidence": [
-                                          2020.154770172554,
-                                          2020.1680327868853
-                                        ],
-                                        "value": 2020.1650576135464
-                                      },
-                                      "region": {
-                                        "value": "Europe"
-                                      }
-                                    }
-                                  }
-                                ],
-                                "name": "NODE_0000029",
-                                "node_attrs": {
-                                  "autonomous_community": {
-                                    "value": "Comunitat Valenciana"
-                                  },
-                                  "country": {
-                                    "value": "Spain"
-                                  },
-                                  "div": 0.00020066151255129544,
-                                  "local": {
-                                    "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
-                                  },
-                                  "num_date": {
-                                    "confidence": [
-                                      2020.15133470321,
+                                      2020.1543715846994,
                                       2020.1543715846994
                                     ],
                                     "value": 2020.1543715846994
@@ -2546,102 +2354,270 @@
                                     "branch_attrs": {
                                       "mutations": {}
                                     },
-                                    "children": [
-                                      {
-                                        "branch_attrs": {
-                                          "mutations": {
-                                            "nuc": [
-                                              "C26681T"
-                                            ]
-                                          }
-                                        },
-                                        "name": "hCoV-19/Spain/Madrid_H9_38/2020|EPI_ISL_417961|2020-03-12",
-                                        "node_attrs": {
-                                          "accession": "EPI_ISL_417961",
-                                          "author": {
-                                            "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                                            "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
-                                          },
-                                          "autonomous_community": {
-                                            "value": "Madrid"
-                                          },
-                                          "city": {
-                                            "value": "Madrid"
-                                          },
-                                          "country": {
-                                            "value": "Spain"
-                                          },
-                                          "div": 0.0002341049402407056,
-                                          "local": {
-                                            "value": "Hospital Universitario 12 de Octubre"
-                                          },
-                                          "num_date": {
-                                            "confidence": [
-                                              2020.1953551912568,
-                                              2020.1953551912568
-                                            ],
-                                            "value": 2020.1953551912568
-                                          },
-                                          "region": {
-                                            "value": "Europe"
-                                          }
-                                        }
-                                      },
-                                      {
-                                        "branch_attrs": {
-                                          "mutations": {}
-                                        },
-                                        "name": "hCoV-19/Spain/CastillayLeon201323/2020|EPI_ISL_418248|2020-03-01",
-                                        "node_attrs": {
-                                          "accession": "EPI_ISL_418248",
-                                          "author": {
-                                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G.",
-                                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G."
-                                          },
-                                          "autonomous_community": {
-                                            "value": "Castilla y Leon"
-                                          },
-                                          "city": {
-                                            "value": "Burgos"
-                                          },
-                                          "country": {
-                                            "value": "Spain"
-                                          },
-                                          "div": 0.00020066151255133426,
-                                          "local": {
-                                            "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
-                                          },
-                                          "num_date": {
-                                            "confidence": [
-                                              2020.1653005464482,
-                                              2020.1653005464482
-                                            ],
-                                            "value": 2020.1653005464482
-                                          },
-                                          "region": {
-                                            "value": "Europe"
-                                          }
-                                        }
-                                      }
-                                    ],
-                                    "name": "NODE_0000032",
+                                    "name": "hCoV-19/Spain/Valencia3/2020|EPI_ISL_414598|2020-03-05",
                                     "node_attrs": {
+                                      "accession": "EPI_ISL_414598",
+                                      "author": {
+                                        "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                        "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                      },
                                       "autonomous_community": {
                                         "value": "Comunitat Valenciana"
+                                      },
+                                      "city": {
+                                        "value": "Valencia"
                                       },
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.00020066151255131485,
+                                      "div": 0.00023410318126225986,
+                                      "local": {
+                                        "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1762295081967,
+                                          2020.1762295081967
+                                        ],
+                                        "value": 2020.1762295081967
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/PaisVasco201382/2020|EPI_ISL_418253|2020-03-02",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_418253",
+                                      "author": {
+                                        "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gomez-Gonzalez C.",
+                                        "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gomez-Gonzalez C."
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Alava"
+                                      },
+                                      "city": {
+                                        "value": "Vitoria-Gasteiz"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.00023410318126225986,
+                                      "local": {
+                                        "value": "HOSPITAL TXAGORRITXU"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1680327868853,
+                                          2020.1680327868853
+                                        ],
+                                        "value": 2020.1680327868853
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000030",
+                                "node_attrs": {
+                                  "autonomous_community": {
+                                    "value": "Comunitat Valenciana"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023410318126224045,
+                                  "local": {
+                                    "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.154679177092,
+                                      2020.1680327868853
+                                    ],
+                                    "value": 2020.1680327868853
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000029",
+                            "node_attrs": {
+                              "autonomous_community": {
+                                "value": "Comunitat Valenciana"
+                              },
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 0.00023410318126222104,
+                              "local": {
+                                "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2020.1493701597642,
+                                  2020.1543715846994
+                                ],
+                                "value": 2020.1543715846994
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
+                          },
+                          {
+                            "branch_attrs": {
+                              "mutations": {}
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {
+                                        "nuc": [
+                                          "C26681T"
+                                        ]
+                                      }
+                                    },
+                                    "name": "hCoV-19/Spain/Madrid_H9_38/2020|EPI_ISL_417961|2020-03-12",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_417961",
+                                      "author": {
+                                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Madrid"
+                                      },
+                                      "city": {
+                                        "value": "Madrid"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.000267546584876083,
+                                      "local": {
+                                        "value": "Hospital Universitario 12 de Octubre"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1953551912568,
+                                          2020.1953551912568
+                                        ],
+                                        "value": 2020.1953551912568
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/CastillayLeon201323/2020|EPI_ISL_418248|2020-03-01",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_418248",
+                                      "author": {
+                                        "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G.",
+                                        "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G."
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Castilla y Leon"
+                                      },
+                                      "city": {
+                                        "value": "Burgos"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.00023410318126225986,
                                       "local": {
                                         "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
                                       },
                                       "num_date": {
                                         "confidence": [
-                                          2020.1538076226536,
+                                          2020.1653005464482,
                                           2020.1653005464482
                                         ],
-                                        "value": 2020.160973899625
+                                        "value": 2020.1653005464482
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000032",
+                                "node_attrs": {
+                                  "autonomous_community": {
+                                    "value": "Comunitat Valenciana"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023410318126224045,
+                                  "local": {
+                                    "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.152302739887,
+                                      2020.1653005464482
+                                    ],
+                                    "value": 2020.1653005464482
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/Valencia5/2020|EPI_ISL_416484|2020-02-27",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_416484",
+                                      "author": {
+                                        "author": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas ",
+                                        "value": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas "
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Comunitat Valenciana"
+                                      },
+                                      "city": {
+                                        "value": "Valencia"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.00023410318126225986,
+                                      "local": {
+                                        "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1571038251366,
+                                          2020.1571038251366
+                                        ],
+                                        "value": 2020.1571038251366
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -2657,32 +2633,32 @@
                                         "branch_attrs": {
                                           "mutations": {}
                                         },
-                                        "name": "hCoV-19/Spain/Valencia5/2020|EPI_ISL_416484|2020-02-27",
+                                        "name": "hCoV-19/Spain/CastillayLeon201372/2020|EPI_ISL_418249|2020-03-03",
                                         "node_attrs": {
-                                          "accession": "EPI_ISL_416484",
+                                          "accession": "EPI_ISL_418249",
                                           "author": {
-                                            "author": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas ",
-                                            "value": "Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Fernando Gonzalez-Candelas "
+                                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G.",
+                                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G."
                                           },
                                           "autonomous_community": {
-                                            "value": "Comunitat Valenciana"
+                                            "value": "Castilla y Leon"
                                           },
                                           "city": {
-                                            "value": "Valencia"
+                                            "value": "Burgos"
                                           },
                                           "country": {
                                             "value": "Spain"
                                           },
-                                          "div": 0.00020066151255133426,
+                                          "div": 0.00023410318126227927,
                                           "local": {
-                                            "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                                            "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
                                           },
                                           "num_date": {
                                             "confidence": [
-                                              2020.1571038251366,
-                                              2020.1571038251366
+                                              2020.1707650273224,
+                                              2020.1707650273224
                                             ],
-                                            "value": 2020.1571038251366
+                                            "value": 2020.1707650273224
                                           },
                                           "region": {
                                             "value": "Europe"
@@ -2693,98 +2669,32 @@
                                         "branch_attrs": {
                                           "mutations": {}
                                         },
-                                        "children": [
-                                          {
-                                            "branch_attrs": {
-                                              "mutations": {}
-                                            },
-                                            "name": "hCoV-19/Spain/CastillayLeon201372/2020|EPI_ISL_418249|2020-03-03",
-                                            "node_attrs": {
-                                              "accession": "EPI_ISL_418249",
-                                              "author": {
-                                                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G.",
-                                                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G."
-                                              },
-                                              "autonomous_community": {
-                                                "value": "Castilla y Leon"
-                                              },
-                                              "city": {
-                                                "value": "Burgos"
-                                              },
-                                              "country": {
-                                                "value": "Spain"
-                                              },
-                                              "div": 0.00020066151255135366,
-                                              "local": {
-                                                "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
-                                              },
-                                              "num_date": {
-                                                "confidence": [
-                                                  2020.1707650273224,
-                                                  2020.1707650273224
-                                                ],
-                                                "value": 2020.1707650273224
-                                              },
-                                              "region": {
-                                                "value": "Europe"
-                                              }
-                                            }
-                                          },
-                                          {
-                                            "branch_attrs": {
-                                              "mutations": {}
-                                            },
-                                            "name": "hCoV-19/Spain/Valencia8/2020|EPI_ISL_416487|2020-03-04",
-                                            "node_attrs": {
-                                              "accession": "EPI_ISL_416487",
-                                              "author": {
-                                                "author": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas ",
-                                                "value": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas "
-                                              },
-                                              "autonomous_community": {
-                                                "value": "Comunitat Valenciana"
-                                              },
-                                              "city": {
-                                                "value": "Valencia"
-                                              },
-                                              "country": {
-                                                "value": "Spain"
-                                              },
-                                              "div": 0.00020066151255135366,
-                                              "local": {
-                                                "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
-                                              },
-                                              "num_date": {
-                                                "confidence": [
-                                                  2020.1734972677596,
-                                                  2020.1734972677596
-                                                ],
-                                                "value": 2020.1734972677596
-                                              },
-                                              "region": {
-                                                "value": "Europe"
-                                              }
-                                            }
-                                          }
-                                        ],
-                                        "name": "NODE_0000034",
+                                        "name": "hCoV-19/Spain/Valencia8/2020|EPI_ISL_416487|2020-03-04",
                                         "node_attrs": {
+                                          "accession": "EPI_ISL_416487",
+                                          "author": {
+                                            "author": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas ",
+                                            "value": "Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Fernando Gonzalez-Candelas "
+                                          },
                                           "autonomous_community": {
                                             "value": "Comunitat Valenciana"
+                                          },
+                                          "city": {
+                                            "value": "Valencia"
                                           },
                                           "country": {
                                             "value": "Spain"
                                           },
-                                          "div": 0.00020066151255133426,
+                                          "div": 0.00023410318126227927,
                                           "local": {
                                             "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                           },
                                           "num_date": {
                                             "confidence": [
-                                              2020.155778106918,
-                                              2020.1707650273224
+                                              2020.1734972677596,
+                                              2020.1734972677596
                                             ],
-                                            "value": 2020.1648146806447
+                                            "value": 2020.1734972677596
                                           },
                                           "region": {
                                             "value": "Europe"
@@ -2792,7 +2702,7 @@
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000033",
+                                    "name": "NODE_0000034",
                                     "node_attrs": {
                                       "autonomous_community": {
                                         "value": "Comunitat Valenciana"
@@ -2800,16 +2710,16 @@
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.00020066151255131485,
+                                      "div": 0.00023410318126225986,
                                       "local": {
                                         "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                       },
                                       "num_date": {
                                         "confidence": [
-                                          2020.153128784658,
-                                          2020.1571038251366
+                                          2020.1586118006896,
+                                          2020.1707650273224
                                         ],
-                                        "value": 2020.156773029397
+                                        "value": 2020.1707650273224
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -2817,7 +2727,7 @@
                                     }
                                   }
                                 ],
-                                "name": "NODE_0000031",
+                                "name": "NODE_0000033",
                                 "node_attrs": {
                                   "autonomous_community": {
                                     "value": "Comunitat Valenciana"
@@ -2825,16 +2735,16 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.00020066151255129544,
+                                  "div": 0.00023410318126224045,
                                   "local": {
                                     "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                   },
                                   "num_date": {
                                     "confidence": [
-                                      2020.1506310220343,
-                                      2020.1561785712413
+                                      2020.1505926468628,
+                                      2020.1571038251366
                                     ],
-                                    "value": 2020.1525929848365
+                                    "value": 2020.1571038251366
                                   },
                                   "region": {
                                     "value": "Europe"
@@ -2842,7 +2752,7 @@
                                 }
                               }
                             ],
-                            "name": "NODE_0000025",
+                            "name": "NODE_0000031",
                             "node_attrs": {
                               "autonomous_community": {
                                 "value": "Comunitat Valenciana"
@@ -2850,16 +2760,16 @@
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.00020066151255127603,
+                              "div": 0.00023410318126222104,
                               "local": {
                                 "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.1408188963892,
-                                  2020.1535041071475
+                                  2020.14187467385,
+                                  2020.1553404457245
                                 ],
-                                "value": 2020.1526366295952
+                                "value": 2020.1504462207952
                               },
                               "region": {
                                 "value": "Europe"
@@ -2867,7 +2777,7 @@
                             }
                           }
                         ],
-                        "name": "NODE_0000023",
+                        "name": "NODE_0000025",
                         "node_attrs": {
                           "autonomous_community": {
                             "value": "Comunitat Valenciana"
@@ -2875,16 +2785,16 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00020066151255125663,
+                          "div": 0.00023410318126220164,
                           "local": {
                             "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1308737530053,
-                              2020.1526597876646
+                              2020.1200753692067,
+                              2020.1516077087629
                             ],
-                            "value": 2020.1513769306453
+                            "value": 2020.1504462207952
                           },
                           "region": {
                             "value": "Europe"
@@ -2900,16 +2810,16 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00020066151255123722,
+                      "div": 0.00023410318126218223,
                       "local": {
                         "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1113577072529,
-                          2020.151579010779
+                          2020.1398251784835,
+                          2020.147759359456
                         ],
-                        "value": 2020.1485333977132
+                        "value": 2020.147759359456
                       },
                       "region": {
                         "value": "Europe"
@@ -2925,16 +2835,16 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00013377307879256542,
+                  "div": 0.00016721472650935284,
                   "local": {
                     "value": "Hospital Universitario Ramon y Cajal"
                   },
                   "num_date": {
                     "confidence": [
-                      2019.8493183875453,
-                      2020.146922094004
+                      2019.5025507870437,
+                      2020.1467811002187
                     ],
-                    "value": 2020.144506543801
+                    "value": 2020.1361298915822
                   },
                   "region": {
                     "value": "Europe"
@@ -2950,16 +2860,16 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 3.344089421131046e-05,
+              "div": 6.688256839819176e-05,
               "local": {
                 "value": "Hospital Universitario Ramon y Cajal"
               },
               "num_date": {
                 "confidence": [
-                  2019.1662095504428,
-                  2020.1440032792855
+                  2017.9353517743705,
+                  2020.1373096292343
                 ],
-                "value": 2020.1372333008537
+                "value": 2020.1192730632417
               },
               "region": {
                 "value": "Europe"
@@ -2975,16 +2885,16 @@
           "country": {
             "value": "Spain"
           },
-          "div": 1.9409548705337178e-17,
+          "div": 3.3441660056948227e-05,
           "local": {
             "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
           },
           "num_date": {
             "confidence": [
-              2018.9415764518972,
-              2020.142027398379
+              2017.33937188823,
+              2020.1310656592718
             ],
-            "value": 2020.130274554893
+            "value": 2020.0951994632137
           },
           "region": {
             "value": "Europe"
@@ -3006,10 +2916,10 @@
       },
       "num_date": {
         "confidence": [
-          2018.7308805325144,
-          2020.1401617825784
+          2017.026791421555,
+          2020.1262690874632
         ],
-        "value": 2020.0989350744767
+        "value": 2020.0952799888983
       },
       "region": {
         "value": "Europe"
