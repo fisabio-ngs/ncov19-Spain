@@ -347,18 +347,26 @@
         "children": [
           {
             "branch_attrs": {
+              "labels": {
+                "aa": "orf1ab: V3660A, S7000F"
+              },
               "mutations": {
                 "nuc": [
-                  "T18099C"
+                  "T11244C",
+                  "C21263T"
+                ],
+                "orf1ab": [
+                  "V3660A",
+                  "S7000F"
                 ]
               }
             },
-            "name": "hCoV-19/Spain/Madrid_LP12_21/2020|EPI_ISL_417972|2020-03-09",
+            "name": "hCoV-19/Spain/Madrid201105/2020|EPI_ISL_418251|2020-02-25",
             "node_attrs": {
-              "accession": "EPI_ISL_417972",
+              "accession": "EPI_ISL_418251",
               "author": {
-                "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Romero P.",
+                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Romero P."
               },
               "autonomous_community": {
                 "value": "Madrid"
@@ -369,144 +377,16 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 0.0001672181018428272,
+              "div": 0.00020066738621545938,
               "local": {
                 "value": "Hospital Universitario La Paz"
               },
               "num_date": {
                 "confidence": [
-                  2020.1871584699454,
-                  2020.1871584699454
-                ],
-                "value": 2020.1871584699454
-              },
-              "region": {
-                "value": "Europe"
-              }
-            }
-          },
-          {
-            "branch_attrs": {
-              "mutations": {
-                "nuc": [
-                  "C8782T"
-                ]
-              }
-            },
-            "children": [
-              {
-                "branch_attrs": {
-                  "labels": {
-                    "aa": "orf1ab: V3660A, S7000F"
-                  },
-                  "mutations": {
-                    "nuc": [
-                      "T11244C",
-                      "C21263T"
-                    ],
-                    "orf1ab": [
-                      "V3660A",
-                      "S7000F"
-                    ]
-                  }
-                },
-                "name": "hCoV-19/Spain/Madrid201105/2020|EPI_ISL_418251|2020-02-25",
-                "node_attrs": {
-                  "accession": "EPI_ISL_418251",
-                  "author": {
-                    "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Romero P.",
-                    "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Romero P."
-                  },
-                  "autonomous_community": {
-                    "value": "Madrid"
-                  },
-                  "city": {
-                    "value": "Madrid"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.00023410717755730604,
-                  "local": {
-                    "value": "Hospital Universitario La Paz"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1516393442623,
-                      2020.1516393442623
-                    ],
-                    "value": 2020.1516393442623
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              },
-              {
-                "branch_attrs": {
-                  "labels": {
-                    "aa": "orf1ab: S5674L"
-                  },
-                  "mutations": {
-                    "nuc": [
-                      "C17285T"
-                    ],
-                    "orf1ab": [
-                      "S5674L"
-                    ]
-                  }
-                },
-                "name": "hCoV-19/Spain/CastillayLeon201061/2020|EPI_ISL_418247|2020-02-26",
-                "node_attrs": {
-                  "accession": "EPI_ISL_418247",
-                  "author": {
-                    "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Hernando-Real S.",
-                    "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Hernando-Real S."
-                  },
-                  "autonomous_community": {
-                    "value": "Castilla y Leon"
-                  },
-                  "city": {
-                    "value": "Segovia"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.00020066263652812543,
-                  "local": {
-                    "value": "HOSPITAL GENERAL DE SEGOVIA"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1543715846994,
-                      2020.1543715846994
-                    ],
-                    "value": 2020.1543715846994
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              }
-            ],
-            "name": "NODE_0000016",
-            "node_attrs": {
-              "autonomous_community": {
-                "value": "Madrid"
-              },
-              "country": {
-                "value": "Spain"
-              },
-              "div": 0.00016721890336399012,
-              "local": {
-                "value": "Hospital Universitario La Paz"
-              },
-              "num_date": {
-                "confidence": [
-                  2017.68212600891,
+                  2020.1516393442623,
                   2020.1516393442623
                 ],
-                "value": 2020.123124768003
+                "value": 2020.1516393442623
               },
               "region": {
                 "value": "Europe"
@@ -516,133 +396,43 @@
           {
             "branch_attrs": {
               "labels": {
-                "aa": "N: R203K, G204R"
+                "aa": "orf1ab: S5674L"
               },
               "mutations": {
-                "N": [
-                  "R203K",
-                  "G204R"
-                ],
                 "nuc": [
-                  "G28881A",
-                  "G28882A",
-                  "G28883C"
+                  "C17285T"
+                ],
+                "orf1ab": [
+                  "S5674L"
                 ]
               }
             },
-            "children": [
-              {
-                "branch_attrs": {
-                  "labels": {
-                    "aa": "ORF6: N34S"
-                  },
-                  "mutations": {
-                    "ORF6": [
-                      "N34S"
-                    ],
-                    "nuc": [
-                      "C313T",
-                      "A27302G"
-                    ]
-                  }
-                },
-                "name": "hCoV-19/Spain/VH198152683/2020|EPI_ISL_418861|2020-03-24",
-                "node_attrs": {
-                  "accession": "EPI_ISL_418861",
-                  "author": {
-                    "author": "Cristina Andres, Damir Garcia-Cehic, Maria Pinana, Mercedes Guerrero-Murillo, Ariadna Rando, Tomas Pumarola, Maria Gema Codina, Andres Anton, Josep Quer",
-                    "value": "Cristina Andres, Damir Garcia-Cehic, Maria Pinana, Mercedes Guerrero-Murillo, Ariadna Rando, Tomas Pumarola, Maria Gema Codina, Andres Anton, Josep Quer"
-                  },
-                  "autonomous_community": {
-                    "value": "Catalunya"
-                  },
-                  "city": {
-                    "value": "Barcelona"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.00030099689483261376,
-                  "local": {
-                    "value": "Hospital Universitari Vall d'Hebron (HUVH)"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.2281420765028,
-                      2020.2281420765028
-                    ],
-                    "value": 2020.2281420765028
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              },
-              {
-                "branch_attrs": {
-                  "labels": {
-                    "aa": "orf1ab: D1036E"
-                  },
-                  "mutations": {
-                    "nuc": [
-                      "C3373A"
-                    ],
-                    "orf1ab": [
-                      "D1036E"
-                    ]
-                  }
-                },
-                "name": "hCoV-19/Spain/Valencia7/2020|EPI_ISL_416486|2020-03-02",
-                "node_attrs": {
-                  "accession": "EPI_ISL_416486",
-                  "author": {
-                    "author": "Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Fernando Gonzalez-Candelas  ",
-                    "value": "Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Fernando Gonzalez-Candelas  "
-                  },
-                  "autonomous_community": {
-                    "value": "Comunitat Valenciana"
-                  },
-                  "city": {
-                    "value": "Valencia"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.00026755399463622003,
-                  "local": {
-                    "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1680327868853,
-                      2020.1680327868853
-                    ],
-                    "value": 2020.1680327868853
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              }
-            ],
-            "name": "NODE_0000000",
+            "name": "hCoV-19/Spain/CastillayLeon201061/2020|EPI_ISL_418247|2020-02-26",
             "node_attrs": {
+              "accession": "EPI_ISL_418247",
+              "author": {
+                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Hernando-Real S.",
+                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Hernando-Real S."
+              },
               "autonomous_community": {
-                "value": "Madrid"
+                "value": "Castilla y Leon"
+              },
+              "city": {
+                "value": "Segovia"
               },
               "country": {
                 "value": "Spain"
               },
-              "div": 0.00023411076744757906,
+              "div": 0.0001672228170921301,
               "local": {
-                "value": "Hospital Universitari Vall d'Hebron (HUVH)"
+                "value": "HOSPITAL GENERAL DE SEGOVIA"
               },
               "num_date": {
                 "confidence": [
-                  2020.1272751996546,
-                  2020.1680327868853
+                  2020.1543715846994,
+                  2020.1543715846994
                 ],
-                "value": 2020.152161062828
+                "value": 2020.1543715846994
               },
               "region": {
                 "value": "Europe"
@@ -653,47 +443,22 @@
             "branch_attrs": {
               "mutations": {
                 "nuc": [
-                  "A20268G"
+                  "T8782C"
                 ]
               }
             },
             "children": [
               {
                 "branch_attrs": {
-                  "labels": {
-                    "aa": "E: P71L; ORF7a: L116P; S: N148K, N149H; orf1ab: D2980G, L4715P, R7030G"
-                  },
                   "mutations": {
-                    "E": [
-                      "P71L"
-                    ],
-                    "ORF7a": [
-                      "L116P"
-                    ],
-                    "S": [
-                      "N148K",
-                      "N149H"
-                    ],
                     "nuc": [
-                      "A361G",
-                      "A9204G",
-                      "T14408C",
-                      "A21352G",
-                      "C22006A",
-                      "A22007C",
-                      "C26456T",
-                      "T27740C"
-                    ],
-                    "orf1ab": [
-                      "D2980G",
-                      "L4715P",
-                      "R7030G"
+                      "T18099C"
                     ]
                   }
                 },
-                "name": "hCoV-19/Spain/Madrid_LP10_12/2020|EPI_ISL_417969|2020-03-09",
+                "name": "hCoV-19/Spain/Madrid_LP12_21/2020|EPI_ISL_417972|2020-03-09",
                 "node_attrs": {
-                  "accession": "EPI_ISL_417969",
+                  "accession": "EPI_ISL_417972",
                   "author": {
                     "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
                     "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
@@ -707,7 +472,7 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.0004348070917140703,
+                  "div": 0.00020066425119619468,
                   "local": {
                     "value": "Hospital Universitario La Paz"
                   },
@@ -726,119 +491,187 @@
               {
                 "branch_attrs": {
                   "labels": {
-                    "aa": "N: P122L; orf1ab: S5792L"
+                    "aa": "N: R203K, G204R"
                   },
                   "mutations": {
                     "N": [
-                      "P122L"
+                      "R203K",
+                      "G204R"
                     ],
                     "nuc": [
-                      "C17639T",
-                      "C28638T"
-                    ],
-                    "orf1ab": [
-                      "S5792L"
-                    ]
-                  }
-                },
-                "name": "hCoV-19/Spain/Madrid_H11_40/2020|EPI_ISL_417967|2020-03-12",
-                "node_attrs": {
-                  "accession": "EPI_ISL_417967",
-                  "author": {
-                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
-                  },
-                  "autonomous_community": {
-                    "value": "Madrid"
-                  },
-                  "city": {
-                    "value": "Madrid"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.00023410630128224984,
-                  "local": {
-                    "value": "Hospital Universitario 12 de Octubre"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1953551912568,
-                      2020.1953551912568
-                    ],
-                    "value": 2020.1953551912568
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              },
-              {
-                "branch_attrs": {
-                  "labels": {
-                    "aa": "S: Q954K"
-                  },
-                  "mutations": {
-                    "S": [
-                      "Q954K"
-                    ],
-                    "nuc": [
-                      "C6286T",
-                      "C24422A"
-                    ]
-                  }
-                },
-                "name": "hCoV-19/Spain/Madrid_LP15_4/2020|EPI_ISL_417978|2020-03-09",
-                "node_attrs": {
-                  "accession": "EPI_ISL_417978",
-                  "author": {
-                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
-                  },
-                  "autonomous_community": {
-                    "value": "Madrid"
-                  },
-                  "city": {
-                    "value": "Madrid"
-                  },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.00023410802864436156,
-                  "local": {
-                    "value": "Hospital Universitario La Paz"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1871584699454,
-                      2020.1871584699454
-                    ],
-                    "value": 2020.1871584699454
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              },
-              {
-                "branch_attrs": {
-                  "mutations": {
-                    "nuc": [
-                      "G29734C"
+                      "G28881A",
+                      "G28882A",
+                      "G28883C"
                     ]
                   }
                 },
                 "children": [
                   {
                     "branch_attrs": {
-                      "mutations": {}
+                      "labels": {
+                        "aa": "ORF6: N34S"
+                      },
+                      "mutations": {
+                        "ORF6": [
+                          "N34S"
+                        ],
+                        "nuc": [
+                          "C313T",
+                          "A27302G"
+                        ]
+                      }
                     },
-                    "name": "hCoV-19/Spain/Madrid_H5_34/2020|EPI_ISL_417956|2020-03-11",
+                    "name": "hCoV-19/Spain/VH198152683/2020|EPI_ISL_418861|2020-03-24",
                     "node_attrs": {
-                      "accession": "EPI_ISL_417956",
+                      "accession": "EPI_ISL_418861",
                       "author": {
-                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
-                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                        "author": "Cristina Andres, Damir Garcia-Cehic, Maria Pinana, Mercedes Guerrero-Murillo, Ariadna Rando, Tomas Pumarola, Maria Gema Codina, Andres Anton, Josep Quer",
+                        "value": "Cristina Andres, Damir Garcia-Cehic, Maria Pinana, Mercedes Guerrero-Murillo, Ariadna Rando, Tomas Pumarola, Maria Gema Codina, Andres Anton, Josep Quer"
+                      },
+                      "autonomous_community": {
+                        "value": "Catalunya"
+                      },
+                      "city": {
+                        "value": "Barcelona"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.00033444305246422515,
+                      "local": {
+                        "value": "Hospital Universitari Vall d'Hebron (HUVH)"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.2281420765028,
+                          2020.2281420765028
+                        ],
+                        "value": 2020.2281420765028
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "orf1ab: D1036E"
+                      },
+                      "mutations": {
+                        "nuc": [
+                          "C3373A"
+                        ],
+                        "orf1ab": [
+                          "D1036E"
+                        ]
+                      }
+                    },
+                    "name": "hCoV-19/Spain/Valencia7/2020|EPI_ISL_416486|2020-03-02",
+                    "node_attrs": {
+                      "accession": "EPI_ISL_416486",
+                      "author": {
+                        "author": "Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Fernando Gonzalez-Candelas  ",
+                        "value": "Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Fernando Gonzalez-Candelas  "
+                      },
+                      "autonomous_community": {
+                        "value": "Comunitat Valenciana"
+                      },
+                      "city": {
+                        "value": "Valencia"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.00030100018707970833,
+                      "local": {
+                        "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1680327868853,
+                          2020.1680327868853
+                        ],
+                        "value": 2020.1680327868853
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000000",
+                "node_attrs": {
+                  "autonomous_community": {
+                    "value": "Madrid"
+                  },
+                  "country": {
+                    "value": "Spain"
+                  },
+                  "div": 0.00026755697822008215,
+                  "local": {
+                    "value": "Hospital Universitari Vall d'Hebron (HUVH)"
+                  },
+                  "num_date": {
+                    "confidence": [
+                      2020.1549845752927,
+                      2020.1680327868853
+                    ],
+                    "value": 2020.1636303381315
+                  },
+                  "region": {
+                    "value": "Europe"
+                  }
+                }
+              },
+              {
+                "branch_attrs": {
+                  "mutations": {
+                    "nuc": [
+                      "A20268G"
+                    ]
+                  }
+                },
+                "children": [
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "E: P71L; ORF7a: L116P; S: N148K, N149H; orf1ab: D2980G, L4715P, R7030G"
+                      },
+                      "mutations": {
+                        "E": [
+                          "P71L"
+                        ],
+                        "ORF7a": [
+                          "L116P"
+                        ],
+                        "S": [
+                          "N148K",
+                          "N149H"
+                        ],
+                        "nuc": [
+                          "A361G",
+                          "A9204G",
+                          "T14408C",
+                          "A21352G",
+                          "C22006A",
+                          "A22007C",
+                          "C26456T",
+                          "T27740C"
+                        ],
+                        "orf1ab": [
+                          "D2980G",
+                          "L4715P",
+                          "R7030G"
+                        ]
+                      }
+                    },
+                    "name": "hCoV-19/Spain/Madrid_LP10_12/2020|EPI_ISL_417969|2020-03-09",
+                    "node_attrs": {
+                      "accession": "EPI_ISL_417969",
+                      "author": {
+                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
                       },
                       "autonomous_community": {
                         "value": "Madrid"
@@ -849,16 +682,16 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00020066130273948768,
+                      "div": 0.00046825325842743805,
                       "local": {
-                        "value": "Hospital Universitario 12 de Octubre"
+                        "value": "Hospital Universitario La Paz"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1926229508197,
-                          2020.1926229508197
+                          2020.1871584699454,
+                          2020.1871584699454
                         ],
-                        "value": 2020.1926229508197
+                        "value": 2020.1871584699454
                       },
                       "region": {
                         "value": "Europe"
@@ -867,101 +700,45 @@
                   },
                   {
                     "branch_attrs": {
+                      "labels": {
+                        "aa": "N: P122L; orf1ab: S5792L"
+                      },
                       "mutations": {
+                        "N": [
+                          "P122L"
+                        ],
                         "nuc": [
-                          "C11704T"
+                          "C17639T",
+                          "C28638T"
+                        ],
+                        "orf1ab": [
+                          "S5792L"
                         ]
                       }
                     },
-                    "children": [
-                      {
-                        "branch_attrs": {
-                          "mutations": {}
-                        },
-                        "name": "hCoV-19/Spain/Madrid_H7_36/2020|EPI_ISL_417957|2020-03-12",
-                        "node_attrs": {
-                          "accession": "EPI_ISL_417957",
-                          "author": {
-                            "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                            "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
-                          },
-                          "autonomous_community": {
-                            "value": "Madrid"
-                          },
-                          "city": {
-                            "value": "Madrid"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00023410293155468357,
-                          "local": {
-                            "value": "Hospital Universitario 12 de Octubre"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1953551912568,
-                              2020.1953551912568
-                            ],
-                            "value": 2020.1953551912568
-                          },
-                          "region": {
-                            "value": "Europe"
-                          }
-                        }
-                      },
-                      {
-                        "branch_attrs": {
-                          "mutations": {}
-                        },
-                        "name": "hCoV-19/Spain/Madrid_H8_37/2020|EPI_ISL_418182|2020-03-12",
-                        "node_attrs": {
-                          "accession": "EPI_ISL_418182",
-                          "author": {
-                            "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                            "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
-                          },
-                          "autonomous_community": {
-                            "value": "Madrid"
-                          },
-                          "city": {
-                            "value": "Madrid"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00023410293155468357,
-                          "local": {
-                            "value": "Hospital Universitario 12 de Octubre"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1953551912568,
-                              2020.1953551912568
-                            ],
-                            "value": 2020.1953551912568
-                          },
-                          "region": {
-                            "value": "Europe"
-                          }
-                        }
-                      }
-                    ],
-                    "name": "NODE_0000010",
+                    "name": "hCoV-19/Spain/Madrid_H11_40/2020|EPI_ISL_417967|2020-03-12",
                     "node_attrs": {
+                      "accession": "EPI_ISL_417967",
+                      "author": {
+                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                      },
                       "autonomous_community": {
+                        "value": "Madrid"
+                      },
+                      "city": {
                         "value": "Madrid"
                       },
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00023410293155466417,
+                      "div": 0.00026755246949266583,
                       "local": {
                         "value": "Hospital Universitario 12 de Octubre"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1651041754628,
+                          2020.1953551912568,
                           2020.1953551912568
                         ],
                         "value": 2020.1953551912568
@@ -970,203 +747,48 @@
                         "value": "Europe"
                       }
                     }
-                  }
-                ],
-                "name": "NODE_0000009",
-                "node_attrs": {
-                  "autonomous_community": {
-                    "value": "Madrid"
                   },
-                  "country": {
-                    "value": "Spain"
-                  },
-                  "div": 0.00020066130273946827,
-                  "local": {
-                    "value": "Hospital Universitario 12 de Octubre"
-                  },
-                  "num_date": {
-                    "confidence": [
-                      2020.1260224722537,
-                      2020.1775595029305
-                    ],
-                    "value": 2020.1631563803621
-                  },
-                  "region": {
-                    "value": "Europe"
-                  }
-                }
-              },
-              {
-                "branch_attrs": {
-                  "mutations": {}
-                },
-                "children": [
                   {
                     "branch_attrs": {
-                      "mutations": {}
-                    },
-                    "children": [
-                      {
-                        "branch_attrs": {
-                          "mutations": {
-                            "nuc": [
-                              "C19017T"
-                            ]
-                          }
-                        },
-                        "name": "hCoV-19/Spain/Madrid_H3_10/2020|EPI_ISL_417954|2020-03-12",
-                        "node_attrs": {
-                          "accession": "EPI_ISL_417954",
-                          "author": {
-                            "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                            "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
-                          },
-                          "autonomous_community": {
-                            "value": "Madrid"
-                          },
-                          "city": {
-                            "value": "Madrid"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00020066118496497458,
-                          "local": {
-                            "value": "Hospital Universitario 12 de Octubre"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1953551912568,
-                              2020.1953551912568
-                            ],
-                            "value": 2020.1953551912568
-                          },
-                          "region": {
-                            "value": "Europe"
-                          }
-                        }
+                      "labels": {
+                        "aa": "S: Q954K"
                       },
-                      {
-                        "branch_attrs": {
-                          "mutations": {}
-                        },
-                        "children": [
-                          {
-                            "branch_attrs": {
-                              "mutations": {}
-                            },
-                            "name": "hCoV-19/Spain/Galicia201663/2020|EPI_ISL_417007|2020-03-07",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_417007",
-                              "author": {
-                                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Garcia Costa, J.",
-                                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Garcia Costa, J."
-                              },
-                              "autonomous_community": {
-                                "value": "Galicia"
-                              },
-                              "city": {
-                                "value": "Orense"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.00016721844373995346,
-                              "local": {
-                                "value": "HOSPITAL SANTA MARIA NAI"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.181693989071,
-                                  2020.181693989071
-                                ],
-                                "value": 2020.181693989071
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
-                              "mutations": {}
-                            },
-                            "name": "hCoV-19/Spain/Valencia1/2020|EPI_ISL_414495|2020-03-08",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_414495",
-                              "author": {
-                                "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                              },
-                              "autonomous_community": {
-                                "value": "Comunitat Valenciana"
-                              },
-                              "city": {
-                                "value": "Valencia"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.00016721844373995346,
-                              "local": {
-                                "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1844262295083,
-                                  2020.1844262295083
-                                ],
-                                "value": 2020.1844262295083
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          }
+                      "mutations": {
+                        "S": [
+                          "Q954K"
                         ],
-                        "name": "NODE_0000011",
-                        "node_attrs": {
-                          "autonomous_community": {
-                            "value": "Comunitat Valenciana"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00016721844373993405,
-                          "local": {
-                            "value": "HOSPITAL SANTA MARIA NAI"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1563776279474,
-                              2020.181693989071
-                            ],
-                            "value": 2020.1745570171663
-                          },
-                          "region": {
-                            "value": "Europe"
-                          }
-                        }
+                        "nuc": [
+                          "C6286T",
+                          "C24422A"
+                        ]
                       }
-                    ],
-                    "name": "NODE_0000008",
+                    },
+                    "name": "hCoV-19/Spain/Madrid_LP15_4/2020|EPI_ISL_417978|2020-03-09",
                     "node_attrs": {
+                      "accession": "EPI_ISL_417978",
+                      "author": {
+                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                      },
                       "autonomous_community": {
+                        "value": "Madrid"
+                      },
+                      "city": {
                         "value": "Madrid"
                       },
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00016721844373991464,
+                      "div": 0.00026755425333112353,
                       "local": {
-                        "value": "Hospital Universitario 12 de Octubre"
+                        "value": "Hospital Universitario La Paz"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1447910392642,
-                          2020.180778377664
+                          2020.1871584699454,
+                          2020.1871584699454
                         ],
-                        "value": 2020.1601859453328
+                        "value": 2020.1871584699454
                       },
                       "region": {
                         "value": "Europe"
@@ -1185,47 +807,15 @@
                         "children": [
                           {
                             "branch_attrs": {
-                              "mutations": {}
-                            },
-                            "name": "hCoV-19/Spain/VH000001133/2020|EPI_ISL_418860|2020-03-15",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_418860",
-                              "author": {
-                                "author": "Cristina Andres, Damir Garcia-Cehic, Maria Pinana, Mercedes Guerrero-Murillo, Ariadna Rando, Tomas Pumarola, Maria Gema Codina, Andres Anton, Josep Quer",
-                                "value": "Cristina Andres, Damir Garcia-Cehic, Maria Pinana, Mercedes Guerrero-Murillo, Ariadna Rando, Tomas Pumarola, Maria Gema Codina, Andres Anton, Josep Quer"
-                              },
-                              "autonomous_community": {
-                                "value": "Catalunya"
-                              },
-                              "city": {
-                                "value": "Barcelona"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.00016721844373995346,
-                              "local": {
-                                "value": "Hospital Universitari Vall d'Hebron (HUVH)"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.2035519125684,
-                                  2020.2035519125684
-                                ],
-                                "value": 2020.2035519125684
-                              },
-                              "region": {
-                                "value": "Europe"
+                              "mutations": {
+                                "nuc": [
+                                  "C19017T"
+                                ]
                               }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
-                              "mutations": {}
                             },
-                            "name": "hCoV-19/Spain/Madrid_H10_39/2020|EPI_ISL_417963|2020-03-12",
+                            "name": "hCoV-19/Spain/Madrid_H3_10/2020|EPI_ISL_417954|2020-03-12",
                             "node_attrs": {
-                              "accession": "EPI_ISL_417963",
+                              "accession": "EPI_ISL_417954",
                               "author": {
                                 "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
                                 "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
@@ -1239,7 +829,7 @@
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.00016721844373995346,
+                              "div": 0.0002341073093897023,
                               "local": {
                                 "value": "Hospital Universitario 12 de Octubre"
                               },
@@ -1254,9 +844,185 @@
                                 "value": "Europe"
                               }
                             }
+                          },
+                          {
+                            "branch_attrs": {
+                              "mutations": {
+                                "nuc": [
+                                  "G29734C"
+                                ]
+                              }
+                            },
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Madrid_H5_34/2020|EPI_ISL_417956|2020-03-11",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417956",
+                                  "author": {
+                                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance ",
+                                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance "
+                                  },
+                                  "autonomous_community": {
+                                    "value": "Madrid"
+                                  },
+                                  "city": {
+                                    "value": "Madrid"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023410737534469177,
+                                  "local": {
+                                    "value": "Hospital Universitario 12 de Octubre"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1926229508197,
+                                      2020.1926229508197
+                                    ],
+                                    "value": 2020.1926229508197
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "C11704T"
+                                    ]
+                                  }
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/Madrid_H7_36/2020|EPI_ISL_417957|2020-03-12",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_417957",
+                                      "author": {
+                                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Madrid"
+                                      },
+                                      "city": {
+                                        "value": "Madrid"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.0002675490240809504,
+                                      "local": {
+                                        "value": "Hospital Universitario 12 de Octubre"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1953551912568,
+                                          2020.1953551912568
+                                        ],
+                                        "value": 2020.1953551912568
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/Madrid_H8_37/2020|EPI_ISL_418182|2020-03-12",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_418182",
+                                      "author": {
+                                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Madrid"
+                                      },
+                                      "city": {
+                                        "value": "Madrid"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.0002675490240809504,
+                                      "local": {
+                                        "value": "Hospital Universitario 12 de Octubre"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1953551912568,
+                                          2020.1953551912568
+                                        ],
+                                        "value": 2020.1953551912568
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000010",
+                                "node_attrs": {
+                                  "autonomous_community": {
+                                    "value": "Madrid"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.000267549024080931,
+                                  "local": {
+                                    "value": "Hospital Universitario 12 de Octubre"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1704712586923,
+                                      2020.1953551912568
+                                    ],
+                                    "value": 2020.1804793245624
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000009",
+                            "node_attrs": {
+                              "autonomous_community": {
+                                "value": "Madrid"
+                              },
+                              "country": {
+                                "value": "Spain"
+                              },
+                              "div": 0.00023410737534467236,
+                              "local": {
+                                "value": "Hospital Universitario 12 de Octubre"
+                              },
+                              "num_date": {
+                                "confidence": [
+                                  2020.165046070906,
+                                  2020.191296717395
+                                ],
+                                "value": 2020.1706325811506
+                              },
+                              "region": {
+                                "value": "Europe"
+                              }
+                            }
                           }
                         ],
-                        "name": "NODE_0000013",
+                        "name": "NODE_0000006",
                         "node_attrs": {
                           "autonomous_community": {
                             "value": "Madrid"
@@ -1264,16 +1030,16 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00016721844373993405,
+                          "div": 0.00020066458871092458,
                           "local": {
                             "value": "Hospital Universitario 12 de Octubre"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1541611229065,
-                              2020.1953551912568
+                              2020.1558825004681,
+                              2020.184773029879
                             ],
-                            "value": 2020.168960638288
+                            "value": 2020.1660625952964
                           },
                           "region": {
                             "value": "Europe"
@@ -1289,29 +1055,99 @@
                             "branch_attrs": {
                               "mutations": {}
                             },
-                            "name": "hCoV-19/Spain/Madrid201442/2020|EPI_ISL_417010|2020-03-04",
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "name": "hCoV-19/Spain/Madrid201442/2020|EPI_ISL_417010|2020-03-04",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_417010",
+                                  "author": {
+                                    "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Fernandez Roblas, R.",
+                                    "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Fernandez Roblas, R."
+                                  },
+                                  "autonomous_community": {
+                                    "value": "Madrid"
+                                  },
+                                  "city": {
+                                    "value": "Madrid"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.0002006645887109634,
+                                  "local": {
+                                    "value": "FUNDACION JIMENEZ DIAZ"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1734972677596,
+                                      2020.1734972677596
+                                    ],
+                                    "value": 2020.1734972677596
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {
+                                    "nuc": [
+                                      "T241C"
+                                    ]
+                                  }
+                                },
+                                "name": "hCoV-19/Spain/Irsi-04/2020|EPI_ISL_418268|2020-03-13",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_418268",
+                                  "author": {
+                                    "author": "Pilar Armengol, Marc Noguera-Julian, Jordi Rodon, Julia Vergara, Lidia Ruiz, Nuria Izquierdo, Jorge Carrillo, Roger Paredes, Albert Bensaid, Julia Blanco, Joaquim Segales, Bonaventura Clotet",
+                                    "value": "Pilar Armengol, Marc Noguera-Julian, Jordi Rodon, Julia Vergara, Lidia Ruiz, Nuria Izquierdo, Jorge Carrillo, Roger Paredes, Albert Bensaid, Julia Blanco, Joaquim Segales, Bonaventura Clotet"
+                                  },
+                                  "autonomous_community": {
+                                    "value": "Catalunya"
+                                  },
+                                  "city": {
+                                    "value": "Badalona"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023410854022459554,
+                                  "local": {
+                                    "value": "Hospital Universitari Germans Trias i Pujol"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.198087431694,
+                                      2020.198087431694
+                                    ],
+                                    "value": 2020.198087431694
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000012",
                             "node_attrs": {
-                              "accession": "EPI_ISL_417010",
-                              "author": {
-                                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Fernandez Roblas, R.",
-                                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Fernandez Roblas, R."
-                              },
                               "autonomous_community": {
-                                "value": "Madrid"
-                              },
-                              "city": {
                                 "value": "Madrid"
                               },
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.00016721844373995346,
+                              "div": 0.00020066458871094398,
                               "local": {
-                                "value": "FUNDACION JIMENEZ DIAZ"
+                                "value": "Hospital Universitari Germans Trias i Pujol"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.1734972677596,
+                                  2020.1653596557835,
                                   2020.1734972677596
                                 ],
                                 "value": 2020.1734972677596
@@ -1323,38 +1159,232 @@
                           },
                           {
                             "branch_attrs": {
-                              "mutations": {
-                                "nuc": [
-                                  "T241C"
-                                ]
-                              }
+                              "mutations": {}
                             },
-                            "name": "hCoV-19/Spain/Irsi-04/2020|EPI_ISL_418268|2020-03-13",
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/VH000001133/2020|EPI_ISL_418860|2020-03-15",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_418860",
+                                      "author": {
+                                        "author": "Cristina Andres, Damir Garcia-Cehic, Maria Pinana, Mercedes Guerrero-Murillo, Ariadna Rando, Tomas Pumarola, Maria Gema Codina, Andres Anton, Josep Quer",
+                                        "value": "Cristina Andres, Damir Garcia-Cehic, Maria Pinana, Mercedes Guerrero-Murillo, Ariadna Rando, Tomas Pumarola, Maria Gema Codina, Andres Anton, Josep Quer"
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Catalunya"
+                                      },
+                                      "city": {
+                                        "value": "Barcelona"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.0002006645887109828,
+                                      "local": {
+                                        "value": "Hospital Universitari Vall d'Hebron (HUVH)"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.2035519125684,
+                                          2020.2035519125684
+                                        ],
+                                        "value": 2020.2035519125684
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/Madrid_H10_39/2020|EPI_ISL_417963|2020-03-12",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_417963",
+                                      "author": {
+                                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Madrid"
+                                      },
+                                      "city": {
+                                        "value": "Madrid"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.0002006645887109828,
+                                      "local": {
+                                        "value": "Hospital Universitario 12 de Octubre"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1953551912568,
+                                          2020.1953551912568
+                                        ],
+                                        "value": 2020.1953551912568
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000014",
+                                "node_attrs": {
+                                  "autonomous_community": {
+                                    "value": "Madrid"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.0002006645887109634,
+                                  "local": {
+                                    "value": "Hospital Universitario 12 de Octubre"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.167643171411,
+                                      2020.1953551912568
+                                    ],
+                                    "value": 2020.1736223438522
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              },
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/Galicia201663/2020|EPI_ISL_417007|2020-03-07",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_417007",
+                                      "author": {
+                                        "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Garcia Costa, J.",
+                                        "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Garcia Costa, J."
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Galicia"
+                                      },
+                                      "city": {
+                                        "value": "Orense"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.0002006645887109828,
+                                      "local": {
+                                        "value": "HOSPITAL SANTA MARIA NAI"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.181693989071,
+                                          2020.181693989071
+                                        ],
+                                        "value": 2020.181693989071
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {}
+                                    },
+                                    "name": "hCoV-19/Spain/Valencia1/2020|EPI_ISL_414495|2020-03-08",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_414495",
+                                      "author": {
+                                        "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                        "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Comunitat Valenciana"
+                                      },
+                                      "city": {
+                                        "value": "Valencia"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.0002006645887109828,
+                                      "local": {
+                                        "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1844262295083,
+                                          2020.1844262295083
+                                        ],
+                                        "value": 2020.1844262295083
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  }
+                                ],
+                                "name": "NODE_0000016",
+                                "node_attrs": {
+                                  "autonomous_community": {
+                                    "value": "Comunitat Valenciana"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.0002006645887109634,
+                                  "local": {
+                                    "value": "HOSPITAL SANTA MARIA NAI"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1661446244902,
+                                      2020.181693989071
+                                    ],
+                                    "value": 2020.1769882961612
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
+                              }
+                            ],
+                            "name": "NODE_0000013",
                             "node_attrs": {
-                              "accession": "EPI_ISL_418268",
-                              "author": {
-                                "author": "Pilar Armengol, Marc Noguera-Julian, Jordi Rodon, Julia Vergara, Lidia Ruiz, Nuria Izquierdo, Jorge Carrillo, Roger Paredes, Albert Bensaid, Julia Blanco, Joaquim Segales, Bonaventura Clotet",
-                                "value": "Pilar Armengol, Marc Noguera-Julian, Jordi Rodon, Julia Vergara, Lidia Ruiz, Nuria Izquierdo, Jorge Carrillo, Roger Paredes, Albert Bensaid, Julia Blanco, Joaquim Segales, Bonaventura Clotet"
-                              },
                               "autonomous_community": {
-                                "value": "Catalunya"
-                              },
-                              "city": {
-                                "value": "Badalona"
+                                "value": "Madrid"
                               },
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.00020066236569700013,
+                              "div": 0.00020066458871094398,
                               "local": {
-                                "value": "Hospital Universitari Germans Trias i Pujol"
+                                "value": "Hospital Universitario 12 de Octubre"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.198087431694,
-                                  2020.198087431694
+                                  2020.154243865023,
+                                  2020.1809308175339
                                 ],
-                                "value": 2020.198087431694
+                                "value": 2020.1698737553643
                               },
                               "region": {
                                 "value": "Europe"
@@ -1362,7 +1392,7 @@
                             }
                           }
                         ],
-                        "name": "NODE_0000014",
+                        "name": "NODE_0000011",
                         "node_attrs": {
                           "autonomous_community": {
                             "value": "Madrid"
@@ -1370,16 +1400,16 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00016721844373993405,
+                          "div": 0.00020066458871092458,
                           "local": {
-                            "value": "Hospital Universitari Germans Trias i Pujol"
+                            "value": "Hospital Universitario 12 de Octubre"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1453020033257,
-                              2020.1734972677596
+                              2020.1582218055928,
+                              2020.1718372796634
                             ],
-                            "value": 2020.1723314171422
+                            "value": 2020.1659535890437
                           },
                           "region": {
                             "value": "Europe"
@@ -1387,7 +1417,7 @@
                         }
                       }
                     ],
-                    "name": "NODE_0000012",
+                    "name": "NODE_0000005",
                     "node_attrs": {
                       "autonomous_community": {
                         "value": "Madrid"
@@ -1395,16 +1425,16 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00016721844373991464,
+                      "div": 0.00020066458871090517,
                       "local": {
                         "value": "Hospital Universitario 12 de Octubre"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.141097823323,
-                          2020.170709491571
+                          2020.1562242507614,
+                          2020.1701293501028
                         ],
-                        "value": 2020.161665973509
+                        "value": 2020.1622085332217
                       },
                       "region": {
                         "value": "Europe"
@@ -1412,7 +1442,7 @@
                     }
                   }
                 ],
-                "name": "NODE_0000007",
+                "name": "NODE_0000003",
                 "node_attrs": {
                   "autonomous_community": {
                     "value": "Madrid"
@@ -1420,16 +1450,16 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00016721844373989524,
+                  "div": 0.00020066458871088576,
                   "local": {
-                    "value": "Hospital Universitario 12 de Octubre"
+                    "value": "Hospital Universitario La Paz"
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1077601904833,
-                      2020.168374858894
+                      2019.5456177770484,
+                      2020.1694129950292
                     ],
-                    "value": 2020.1469715224814
+                    "value": 2020.15836999431
                   },
                   "region": {
                     "value": "Europe"
@@ -1437,7 +1467,7 @@
                 }
               }
             ],
-            "name": "NODE_0000003",
+            "name": "NODE_0000002",
             "node_attrs": {
               "autonomous_community": {
                 "value": "Madrid"
@@ -1445,16 +1475,16 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 0.00016721844373987583,
+              "div": 0.0001672220600580545,
               "local": {
                 "value": "Hospital Universitario La Paz"
               },
               "num_date": {
                 "confidence": [
-                  2017.333876344217,
-                  2020.1600102446316
+                  2019.4597540408743,
+                  2020.1654728747894
                 ],
-                "value": 2020.1466274736206
+                "value": 2020.1526291741125
               },
               "region": {
                 "value": "Europe"
@@ -1470,16 +1500,16 @@
           "country": {
             "value": "Spain"
           },
-          "div": 0.0001337759106895675,
+          "div": 0.0001337790739084433,
           "local": {
             "value": "Hospital Universitario La Paz"
           },
           "num_date": {
             "confidence": [
-              2016.8365361929198,
-              2020.146612961628
+              2019.3618401495785,
+              2020.1516393442623
             ],
-            "value": 2020.1089256615642
+            "value": 2020.137219299178
           },
           "region": {
             "value": "Europe"
@@ -1493,6 +1523,42 @@
         "children": [
           {
             "branch_attrs": {
+              "mutations": {}
+            },
+            "name": "hCoV-19/Spain/Andalucia201373/2020|EPI_ISL_418244|2020-03-02",
+            "node_attrs": {
+              "accession": "EPI_ISL_418244",
+              "author": {
+                "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Sanbonmatsu S",
+                "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Sanbonmatsu S"
+              },
+              "autonomous_community": {
+                "value": "Andalusia"
+              },
+              "city": {
+                "value": "Granada"
+              },
+              "country": {
+                "value": "Spain"
+              },
+              "div": 3.8819097410674356e-17,
+              "local": {
+                "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
+              },
+              "num_date": {
+                "confidence": [
+                  2020.1680327868853,
+                  2020.1680327868853
+                ],
+                "value": 2020.1680327868853
+              },
+              "region": {
+                "value": "Europe"
+              }
+            }
+          },
+          {
+            "branch_attrs": {
               "labels": {
                 "aa": "ORF3a: G251V; orf1ab: L3606F"
               },
@@ -1501,6 +1567,7 @@
                   "G251V"
                 ],
                 "nuc": [
+                  "T8782C",
                   "G11083T",
                   "G26144T"
                 ],
@@ -1530,7 +1597,7 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 6.688433525563129e-05,
+                  "div": 0.00010033006216296158,
                   "local": {
                     "value": "Hospital Universitario 12 de Octubre"
                   },
@@ -1579,7 +1646,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00013376472393972783,
+                      "div": 0.0001672104674689932,
                       "local": {
                         "value": "Hospital Universitario La Paz"
                       },
@@ -1620,7 +1687,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.0001672073111676395,
+                      "div": 0.00020065303762692322,
                       "local": {
                         "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
                       },
@@ -1645,16 +1712,16 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 0.00010032453112377405,
+                  "div": 0.00013377024712380597,
                   "local": {
-                    "value": "Hospital Universitario La Paz"
+                    "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1150731854748,
-                      2020.1584393848873
+                      2020.1450035206021,
+                      2020.1598360655737
                     ],
-                    "value": 2020.1498807128542
+                    "value": 2020.1548790365403
                   },
                   "region": {
                     "value": "Europe"
@@ -1670,16 +1737,16 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 6.688433525561187e-05,
+              "div": 0.00010033006216294216,
               "local": {
-                "value": "Hospital Universitario La Paz"
+                "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
               },
               "num_date": {
                 "confidence": [
-                  2020.079228542174,
-                  2020.1432582729362
+                  2020.1240005317532,
+                  2020.157706477129
                 ],
-                "value": 2020.1089210538526
+                "value": 2020.1476036358074
               },
               "region": {
                 "value": "Europe"
@@ -1688,43 +1755,67 @@
           },
           {
             "branch_attrs": {
+              "labels": {
+                "aa": "ORF8: L84S"
+              },
               "mutations": {
+                "ORF8": [
+                  "L84S"
+                ],
                 "nuc": [
-                  "C8782T"
+                  "T28144C"
                 ]
               }
             },
             "children": [
               {
                 "branch_attrs": {
-                  "mutations": {}
+                  "labels": {
+                    "aa": "S: L1265P; orf1ab: D2980G, T3791S, R7030G"
+                  },
+                  "mutations": {
+                    "S": [
+                      "L1265P"
+                    ],
+                    "nuc": [
+                      "A9204G",
+                      "A11636T",
+                      "A21352G",
+                      "T25356C"
+                    ],
+                    "orf1ab": [
+                      "D2980G",
+                      "T3791S",
+                      "R7030G"
+                    ]
+                  }
                 },
-                "name": "hCoV-19/Spain/Andalucia201373/2020|EPI_ISL_418244|2020-03-02",
+                "name": "hCoV-19/Spain/Madrid_R2_15/2020|EPI_ISL_417979|2020-03-03",
                 "node_attrs": {
-                  "accession": "EPI_ISL_418244",
+                  "accession": "EPI_ISL_417979",
                   "author": {
-                    "author": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Sanbonmatsu S",
-                    "value": "Iglesias-Caballero M, Molinero Calamita M, Gonzalez-Esguevillas M, Camarero S, Pozo F, Casas I, Jimenez P, Jimenez M, Zaballos A, Monzon S, Varona S, Julia M, Cuesta I, Sanbonmatsu S"
+                    "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                    "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
                   },
                   "autonomous_community": {
-                    "value": "Andalusia"
+                    "value": "Madrid"
                   },
                   "city": {
-                    "value": "Granada"
+                    "value": "Madrid"
                   },
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 3.344091016414033e-05,
+                  "div": 0.00016721302147135907,
                   "local": {
-                    "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
+                    "value": "Hospital Universitario Ramon y Cajal"
                   },
                   "num_date": {
                     "confidence": [
-                      2020.1680327868853,
-                      2020.1680327868853
+                      2020.1707650273224,
+                      2020.1707650273224
                     ],
-                    "value": 2020.1680327868853
+                    "value": 2020.1707650273224
                   },
                   "region": {
                     "value": "Europe"
@@ -1733,44 +1824,25 @@
               },
               {
                 "branch_attrs": {
-                  "labels": {
-                    "aa": "ORF8: L84S"
-                  },
                   "mutations": {
-                    "ORF8": [
-                      "L84S"
-                    ],
                     "nuc": [
-                      "T28144C"
+                      "C26088T"
                     ]
                   }
                 },
                 "children": [
                   {
                     "branch_attrs": {
-                      "labels": {
-                        "aa": "S: L1265P; orf1ab: D2980G, T3791S, R7030G"
-                      },
                       "mutations": {
-                        "S": [
-                          "L1265P"
-                        ],
                         "nuc": [
-                          "A9204G",
-                          "A11636T",
-                          "A21352G",
-                          "T25356C"
-                        ],
-                        "orf1ab": [
-                          "D2980G",
-                          "T3791S",
-                          "R7030G"
+                          "T12364A",
+                          "A19719T"
                         ]
                       }
                     },
-                    "name": "hCoV-19/Spain/Madrid_R2_15/2020|EPI_ISL_417979|2020-03-03",
+                    "name": "hCoV-19/Spain/Madrid_R5_8/2020|EPI_ISL_417980|2020-03-03",
                     "node_attrs": {
-                      "accession": "EPI_ISL_417979",
+                      "accession": "EPI_ISL_417980",
                       "author": {
                         "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
                         "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
@@ -1784,7 +1856,7 @@
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00020065381778453173,
+                      "div": 0.0001337696369895717,
                       "local": {
                         "value": "Hospital Universitario Ramon y Cajal"
                       },
@@ -1802,231 +1874,34 @@
                   },
                   {
                     "branch_attrs": {
-                      "mutations": {
-                        "nuc": [
-                          "C26088T"
-                        ]
-                      }
+                      "mutations": {}
                     },
-                    "children": [
-                      {
-                        "branch_attrs": {
-                          "mutations": {
-                            "nuc": [
-                              "T12364A",
-                              "A19719T"
-                            ]
-                          }
-                        },
-                        "name": "hCoV-19/Spain/Madrid_R5_8/2020|EPI_ISL_417980|2020-03-03",
-                        "node_attrs": {
-                          "accession": "EPI_ISL_417980",
-                          "author": {
-                            "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                            "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
-                          },
-                          "autonomous_community": {
-                            "value": "Madrid"
-                          },
-                          "city": {
-                            "value": "Madrid"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00016721067891036252,
-                          "local": {
-                            "value": "Hospital Universitario Ramon y Cajal"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1707650273224,
-                              2020.1707650273224
-                            ],
-                            "value": 2020.1707650273224
-                          },
-                          "region": {
-                            "value": "Europe"
-                          }
-                        }
-                      },
-                      {
-                        "branch_attrs": {
-                          "mutations": {}
-                        },
-                        "name": "hCoV-19/Spain/Madrid201449/2020|EPI_ISL_418252|2020-03-04",
-                        "node_attrs": {
-                          "accession": "EPI_ISL_418252",
-                          "author": {
-                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Fernandez Roblas, R.",
-                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Fernandez Roblas, R."
-                          },
-                          "autonomous_community": {
-                            "value": "Madrid"
-                          },
-                          "city": {
-                            "value": "Madrid"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00010032272866948537,
-                          "local": {
-                            "value": "FUNDACION JIMENEZ DIAZ"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1734972677596,
-                              2020.1734972677596
-                            ],
-                            "value": 2020.1734972677596
-                          },
-                          "region": {
-                            "value": "Europe"
-                          }
-                        }
-                      },
-                      {
-                        "branch_attrs": {
-                          "labels": {
-                            "aa": "orf1ab: L2062F"
-                          },
-                          "mutations": {
-                            "nuc": [
-                              "C6449T"
-                            ],
-                            "orf1ab": [
-                              "L2062F"
-                            ]
-                          }
-                        },
-                        "children": [
-                          {
-                            "branch_attrs": {
-                              "labels": {
-                                "aa": "orf1ab: K4451N"
-                              },
-                              "mutations": {
-                                "nuc": [
-                                  "G13617T"
-                                ],
-                                "orf1ab": [
-                                  "K4451N"
-                                ]
-                              }
-                            },
-                            "name": "hCoV-19/Spain/CastillaLaMancha201329/2020|EPI_ISL_418246|2020-03-01",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_418246",
-                              "author": {
-                                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gonzalez-Praetorius A.",
-                                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gonzalez-Praetorius A."
-                              },
-                              "autonomous_community": {
-                                "value": "Castilla La Mancha"
-                              },
-                              "city": {
-                                "value": "Guadalajara"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.000167208867072317,
-                              "local": {
-                                "value": "Hospital General y Universitario de Guadalajara"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1653005464482,
-                                  2020.1653005464482
-                                ],
-                                "value": 2020.1653005464482
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
-                              "mutations": {}
-                            },
-                            "name": "hCoV-19/Spain/CastillaLaMancha201328/2020|EPI_ISL_418245|2020-03-01",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_418245",
-                              "author": {
-                                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gonzalez-Praetorius A.",
-                                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gonzalez-Praetorius A."
-                              },
-                              "autonomous_community": {
-                                "value": "Castilla La Mancha"
-                              },
-                              "city": {
-                                "value": "Guadalajara"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.00013376441778733438,
-                              "local": {
-                                "value": "Hospital General y Universitario de Guadalajara"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1653005464482,
-                                  2020.1653005464482
-                                ],
-                                "value": 2020.1653005464482
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          }
-                        ],
-                        "name": "NODE_0000026",
-                        "node_attrs": {
-                          "autonomous_community": {
-                            "value": "Castilla La Mancha"
-                          },
-                          "country": {
-                            "value": "Spain"
-                          },
-                          "div": 0.00013376441778731497,
-                          "local": {
-                            "value": "Hospital General y Universitario de Guadalajara"
-                          },
-                          "num_date": {
-                            "confidence": [
-                              2020.1436958757859,
-                              2020.1653005464482
-                            ],
-                            "value": 2020.1555298034366
-                          },
-                          "region": {
-                            "value": "Europe"
-                          }
-                        }
-                      }
-                    ],
-                    "name": "NODE_0000024",
+                    "name": "hCoV-19/Spain/Madrid201449/2020|EPI_ISL_418252|2020-03-04",
                     "node_attrs": {
+                      "accession": "EPI_ISL_418252",
+                      "author": {
+                        "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Fernandez Roblas, R.",
+                        "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Fernandez Roblas, R."
+                      },
                       "autonomous_community": {
+                        "value": "Madrid"
+                      },
+                      "city": {
                         "value": "Madrid"
                       },
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00010032272866946596,
+                      "div": 6.688180060166916e-05,
                       "local": {
-                        "value": "Hospital Universitario Ramon y Cajal"
+                        "value": "FUNDACION JIMENEZ DIAZ"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.116853166729,
-                          2020.1539782931145
+                          2020.1734972677596,
+                          2020.1734972677596
                         ],
-                        "value": 2020.142009767287
+                        "value": 2020.1734972677596
                       },
                       "region": {
                         "value": "Europe"
@@ -2036,53 +1911,58 @@
                   {
                     "branch_attrs": {
                       "labels": {
-                        "aa": "N: S197L; orf1ab: F3071Y"
+                        "aa": "orf1ab: L2062F"
                       },
                       "mutations": {
-                        "N": [
-                          "S197L"
-                        ],
                         "nuc": [
-                          "T9477A",
-                          "C14805T",
-                          "C28863T"
+                          "C6449T"
                         ],
                         "orf1ab": [
-                          "F3071Y"
+                          "L2062F"
                         ]
                       }
                     },
                     "children": [
                       {
                         "branch_attrs": {
-                          "mutations": {}
+                          "labels": {
+                            "aa": "orf1ab: K4451N"
+                          },
+                          "mutations": {
+                            "nuc": [
+                              "G13617T"
+                            ],
+                            "orf1ab": [
+                              "K4451N"
+                            ]
+                          }
                         },
-                        "name": "hCoV-19/Spain/Madrid_R10_33/2020|EPI_ISL_417981|2020-03-02",
+                        "name": "hCoV-19/Spain/CastillaLaMancha201329/2020|EPI_ISL_418246|2020-03-01",
                         "node_attrs": {
-                          "accession": "EPI_ISL_417981",
+                          "accession": "EPI_ISL_418246",
                           "author": {
-                            "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                            "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gonzalez-Praetorius A.",
+                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gonzalez-Praetorius A."
                           },
                           "autonomous_community": {
-                            "value": "Madrid"
+                            "value": "Castilla La Mancha"
                           },
                           "city": {
-                            "value": "Madrid"
+                            "value": "Guadalajara"
                           },
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00016721397661654494,
+                          "div": 0.00013376790915090795,
                           "local": {
-                            "value": "Hospital Universitario Ramon y Cajal"
+                            "value": "Hospital General y Universitario de Guadalajara"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.1680327868853,
-                              2020.1680327868853
+                              2020.1653005464482,
+                              2020.1653005464482
                             ],
-                            "value": 2020.1680327868853
+                            "value": 2020.1653005464482
                           },
                           "region": {
                             "value": "Europe"
@@ -2091,226 +1971,393 @@
                       },
                       {
                         "branch_attrs": {
-                          "labels": {
-                            "aa": "ORF3a: G196V"
+                          "mutations": {}
+                        },
+                        "name": "hCoV-19/Spain/CastillaLaMancha201328/2020|EPI_ISL_418245|2020-03-01",
+                        "node_attrs": {
+                          "accession": "EPI_ISL_418245",
+                          "author": {
+                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gonzalez-Praetorius A.",
+                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Gonzalez-Praetorius A."
                           },
-                          "mutations": {
-                            "ORF3a": [
-                              "G196V"
+                          "autonomous_community": {
+                            "value": "Castilla La Mancha"
+                          },
+                          "city": {
+                            "value": "Guadalajara"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.00010032343903224576,
+                          "local": {
+                            "value": "Hospital General y Universitario de Guadalajara"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1653005464482,
+                              2020.1653005464482
                             ],
+                            "value": 2020.1653005464482
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      }
+                    ],
+                    "name": "NODE_0000026",
+                    "node_attrs": {
+                      "autonomous_community": {
+                        "value": "Castilla La Mancha"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.00010032343903222635,
+                      "local": {
+                        "value": "Hospital General y Universitario de Guadalajara"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1540831783113,
+                          2020.1653005464482
+                        ],
+                        "value": 2020.1618765766596
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  }
+                ],
+                "name": "NODE_0000024",
+                "node_attrs": {
+                  "autonomous_community": {
+                    "value": "Madrid"
+                  },
+                  "country": {
+                    "value": "Spain"
+                  },
+                  "div": 6.688180060164975e-05,
+                  "local": {
+                    "value": "Hospital Universitario Ramon y Cajal"
+                  },
+                  "num_date": {
+                    "confidence": [
+                      2020.1425265047112,
+                      2020.164075220374
+                    ],
+                    "value": 2020.1529705549196
+                  },
+                  "region": {
+                    "value": "Europe"
+                  }
+                }
+              },
+              {
+                "branch_attrs": {
+                  "labels": {
+                    "aa": "N: S197L; orf1ab: F3071Y"
+                  },
+                  "mutations": {
+                    "N": [
+                      "S197L"
+                    ],
+                    "nuc": [
+                      "T9477A",
+                      "C14805T",
+                      "C28863T"
+                    ],
+                    "orf1ab": [
+                      "F3071Y"
+                    ]
+                  }
+                },
+                "children": [
+                  {
+                    "branch_attrs": {
+                      "mutations": {}
+                    },
+                    "name": "hCoV-19/Spain/Madrid_R10_33/2020|EPI_ISL_417981|2020-03-02",
+                    "node_attrs": {
+                      "accession": "EPI_ISL_417981",
+                      "author": {
+                        "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                        "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                      },
+                      "autonomous_community": {
+                        "value": "Madrid"
+                      },
+                      "city": {
+                        "value": "Madrid"
+                      },
+                      "country": {
+                        "value": "Spain"
+                      },
+                      "div": 0.00013377307879258482,
+                      "local": {
+                        "value": "Hospital Universitario Ramon y Cajal"
+                      },
+                      "num_date": {
+                        "confidence": [
+                          2020.1680327868853,
+                          2020.1680327868853
+                        ],
+                        "value": 2020.1680327868853
+                      },
+                      "region": {
+                        "value": "Europe"
+                      }
+                    }
+                  },
+                  {
+                    "branch_attrs": {
+                      "labels": {
+                        "aa": "ORF3a: G196V"
+                      },
+                      "mutations": {
+                        "ORF3a": [
+                          "G196V"
+                        ],
+                        "nuc": [
+                          "G25979T",
+                          "C28657T"
+                        ]
+                      }
+                    },
+                    "children": [
+                      {
+                        "branch_attrs": {
+                          "mutations": {
                             "nuc": [
-                              "G25979T",
-                              "C28657T"
+                              "T5290C"
                             ]
                           }
+                        },
+                        "name": "hCoV-19/Spain/Valencia6/2020|EPI_ISL_416485|2020-02-27",
+                        "node_attrs": {
+                          "accession": "EPI_ISL_416485",
+                          "author": {
+                            "author": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas ",
+                            "value": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas "
+                          },
+                          "autonomous_community": {
+                            "value": "Comunitat Valenciana"
+                          },
+                          "city": {
+                            "value": "Valencia"
+                          },
+                          "country": {
+                            "value": "Spain"
+                          },
+                          "div": 0.00023410414357181688,
+                          "local": {
+                            "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                          },
+                          "num_date": {
+                            "confidence": [
+                              2020.1571038251366,
+                              2020.1571038251366
+                            ],
+                            "value": 2020.1571038251366
+                          },
+                          "region": {
+                            "value": "Europe"
+                          }
+                        }
+                      },
+                      {
+                        "branch_attrs": {
+                          "mutations": {}
                         },
                         "children": [
                           {
                             "branch_attrs": {
-                              "mutations": {
-                                "nuc": [
-                                  "C26681T"
-                                ]
-                              }
+                              "mutations": {}
                             },
-                            "name": "hCoV-19/Spain/Madrid_H9_38/2020|EPI_ISL_417961|2020-03-12",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_417961",
-                              "author": {
-                                "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
-                                "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                            "children": [
+                              {
+                                "branch_attrs": {
+                                  "labels": {
+                                    "aa": "S: S940F"
+                                  },
+                                  "mutations": {
+                                    "S": [
+                                      "S940F"
+                                    ],
+                                    "nuc": [
+                                      "C24381T"
+                                    ]
+                                  }
+                                },
+                                "name": "hCoV-19/Spain/Valencia2/2020|EPI_ISL_414496|2020-03-04",
+                                "node_attrs": {
+                                  "accession": "EPI_ISL_414496",
+                                  "author": {
+                                    "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                    "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                  },
+                                  "autonomous_community": {
+                                    "value": "Comunitat Valenciana"
+                                  },
+                                  "city": {
+                                    "value": "Valencia"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00023410778062004923,
+                                  "local": {
+                                    "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.1734972677596,
+                                      2020.1734972677596
+                                    ],
+                                    "value": 2020.1734972677596
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
                               },
-                              "autonomous_community": {
-                                "value": "Madrid"
-                              },
-                              "city": {
-                                "value": "Madrid"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.0002675458349831975,
-                              "local": {
-                                "value": "Hospital Universitario 12 de Octubre"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1953551912568,
-                                  2020.1953551912568
+                              {
+                                "branch_attrs": {
+                                  "mutations": {}
+                                },
+                                "children": [
+                                  {
+                                    "branch_attrs": {
+                                      "labels": {
+                                        "aa": "orf1ab: P1786S"
+                                      },
+                                      "mutations": {
+                                        "nuc": [
+                                          "C5621T"
+                                        ],
+                                        "orf1ab": [
+                                          "P1786S"
+                                        ]
+                                      }
+                                    },
+                                    "name": "hCoV-19/Spain/Valencia10/2020|EPI_ISL_417206|2020-03-06",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_417206",
+                                      "author": {
+                                        "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas ",
+                                        "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas "
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Comunitat Valenciana"
+                                      },
+                                      "city": {
+                                        "value": "Valencia"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.00023411414628447303,
+                                      "local": {
+                                        "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1789617486338,
+                                          2020.1789617486338
+                                        ],
+                                        "value": 2020.1789617486338
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  },
+                                  {
+                                    "branch_attrs": {
+                                      "mutations": {
+                                        "nuc": [
+                                          "C18582T"
+                                        ]
+                                      }
+                                    },
+                                    "name": "hCoV-19/Spain/CastillayLeon201437/2020|EPI_ISL_416994|2020-03-04",
+                                    "node_attrs": {
+                                      "accession": "EPI_ISL_416994",
+                                      "author": {
+                                        "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez P. Jimenez M. Zaballos A. Monzon, S. Varona, S. Julia M. Cuesta I. Megias Lobon, G. Hospital: ------ ",
+                                        "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez P. Jimenez M. Zaballos A. Monzon, S. Varona, S. Julia M. Cuesta I. Megias Lobon, G. Hospital: ------ "
+                                      },
+                                      "autonomous_community": {
+                                        "value": "Castilla y Leon"
+                                      },
+                                      "city": {
+                                        "value": "Burgos"
+                                      },
+                                      "country": {
+                                        "value": "Spain"
+                                      },
+                                      "div": 0.0002341049402406862,
+                                      "local": {
+                                        "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
+                                      },
+                                      "num_date": {
+                                        "confidence": [
+                                          2020.1734972677596,
+                                          2020.1734972677596
+                                        ],
+                                        "value": 2020.1734972677596
+                                      },
+                                      "region": {
+                                        "value": "Europe"
+                                      }
+                                    }
+                                  }
                                 ],
-                                "value": 2020.1953551912568
-                              },
-                              "region": {
-                                "value": "Europe"
+                                "name": "NODE_0000036",
+                                "node_attrs": {
+                                  "autonomous_community": {
+                                    "value": "Comunitat Valenciana"
+                                  },
+                                  "country": {
+                                    "value": "Spain"
+                                  },
+                                  "div": 0.00020066151255129544,
+                                  "local": {
+                                    "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                                  },
+                                  "num_date": {
+                                    "confidence": [
+                                      2020.153885887361,
+                                      2020.1734972677596
+                                    ],
+                                    "value": 2020.1642791748868
+                                  },
+                                  "region": {
+                                    "value": "Europe"
+                                  }
+                                }
                               }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
-                              "mutations": {
-                                "nuc": [
-                                  "C18582T"
-                                ]
-                              }
-                            },
-                            "name": "hCoV-19/Spain/CastillayLeon201437/2020|EPI_ISL_416994|2020-03-04",
+                            ],
+                            "name": "NODE_0000035",
                             "node_attrs": {
-                              "accession": "EPI_ISL_416994",
-                              "author": {
-                                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez P. Jimenez M. Zaballos A. Monzon, S. Varona, S. Julia M. Cuesta I. Megias Lobon, G. Hospital: ------ ",
-                                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero S. Pozo F. Casas I. Jimenez P. Jimenez M. Zaballos A. Monzon, S. Varona, S. Julia M. Cuesta I. Megias Lobon, G. Hospital: ------ "
-                              },
-                              "autonomous_community": {
-                                "value": "Castilla y Leon"
-                              },
-                              "city": {
-                                "value": "Burgos"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.0002675458349831975,
-                              "local": {
-                                "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1734972677596,
-                                  2020.1734972677596
-                                ],
-                                "value": 2020.1734972677596
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
-                              "mutations": {
-                                "nuc": [
-                                  "T5290C"
-                                ]
-                              }
-                            },
-                            "name": "hCoV-19/Spain/Valencia6/2020|EPI_ISL_416485|2020-02-27",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_416485",
-                              "author": {
-                                "author": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas ",
-                                "value": "Griselda De Marco, Neris Garcia-Gonzalez, Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Fernando Gonzalez-Candelas "
-                              },
                               "autonomous_community": {
                                 "value": "Comunitat Valenciana"
                               },
-                              "city": {
-                                "value": "Valencia"
-                              },
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.0002675450960869811,
+                              "div": 0.00020066151255127603,
                               "local": {
                                 "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.1571038251366,
-                                  2020.1571038251366
+                                  2020.1468854233995,
+                                  2020.171608476307
                                 ],
-                                "value": 2020.1571038251366
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
-                              "labels": {
-                                "aa": "S: S940F"
-                              },
-                              "mutations": {
-                                "S": [
-                                  "S940F"
-                                ],
-                                "nuc": [
-                                  "C24381T"
-                                ]
-                              }
-                            },
-                            "name": "hCoV-19/Spain/Valencia2/2020|EPI_ISL_414496|2020-03-04",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_414496",
-                              "author": {
-                                "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
-                              },
-                              "autonomous_community": {
-                                "value": "Comunitat Valenciana"
-                              },
-                              "city": {
-                                "value": "Valencia"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.0002675487007141431,
-                              "local": {
-                                "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1734972677596,
-                                  2020.1734972677596
-                                ],
-                                "value": 2020.1734972677596
-                              },
-                              "region": {
-                                "value": "Europe"
-                              }
-                            }
-                          },
-                          {
-                            "branch_attrs": {
-                              "labels": {
-                                "aa": "orf1ab: P1786S"
-                              },
-                              "mutations": {
-                                "nuc": [
-                                  "C5621T"
-                                ],
-                                "orf1ab": [
-                                  "P1786S"
-                                ]
-                              }
-                            },
-                            "name": "hCoV-19/Spain/Valencia10/2020|EPI_ISL_417206|2020-03-06",
-                            "node_attrs": {
-                              "accession": "EPI_ISL_417206",
-                              "author": {
-                                "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas ",
-                                "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas "
-                              },
-                              "autonomous_community": {
-                                "value": "Comunitat Valenciana"
-                              },
-                              "city": {
-                                "value": "Valencia"
-                              },
-                              "country": {
-                                "value": "Spain"
-                              },
-                              "div": 0.000267555114482688,
-                              "local": {
-                                "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
-                              },
-                              "num_date": {
-                                "confidence": [
-                                  2020.1789617486338,
-                                  2020.1789617486338
-                                ],
-                                "value": 2020.1789617486338
+                                "value": 2020.1538632573324
                               },
                               "region": {
                                 "value": "Europe"
@@ -2331,32 +2378,32 @@
                                     "branch_attrs": {
                                       "mutations": {}
                                     },
-                                    "name": "hCoV-19/Spain/CastillayLeon201323/2020|EPI_ISL_418248|2020-03-01",
+                                    "name": "hCoV-19/Spain/Valencia4/2020|EPI_ISL_416483|2020-02-26",
                                     "node_attrs": {
-                                      "accession": "EPI_ISL_418248",
+                                      "accession": "EPI_ISL_416483",
                                       "author": {
-                                        "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G.",
-                                        "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G."
+                                        "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                        "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
                                       },
                                       "autonomous_community": {
-                                        "value": "Castilla y Leon"
+                                        "value": "Comunitat Valenciana"
                                       },
                                       "city": {
-                                        "value": "Burgos"
+                                        "value": "Valencia"
                                       },
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.00023410243136941315,
+                                      "div": 0.00020066151255131485,
                                       "local": {
-                                        "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
+                                        "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                       },
                                       "num_date": {
                                         "confidence": [
-                                          2020.1653005464482,
-                                          2020.1653005464482
+                                          2020.1543715846994,
+                                          2020.1543715846994
                                         ],
-                                        "value": 2020.1653005464482
+                                        "value": 2020.1543715846994
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -2372,32 +2419,32 @@
                                         "branch_attrs": {
                                           "mutations": {}
                                         },
-                                        "name": "hCoV-19/Spain/CastillayLeon201372/2020|EPI_ISL_418249|2020-03-03",
+                                        "name": "hCoV-19/Spain/Valencia3/2020|EPI_ISL_414598|2020-03-05",
                                         "node_attrs": {
-                                          "accession": "EPI_ISL_418249",
+                                          "accession": "EPI_ISL_414598",
                                           "author": {
-                                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G.",
-                                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G."
+                                            "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
+                                            "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
                                           },
                                           "autonomous_community": {
-                                            "value": "Castilla y Leon"
+                                            "value": "Comunitat Valenciana"
                                           },
                                           "city": {
-                                            "value": "Burgos"
+                                            "value": "Valencia"
                                           },
                                           "country": {
                                             "value": "Spain"
                                           },
-                                          "div": 0.00023410243136943255,
+                                          "div": 0.00020066151255133426,
                                           "local": {
-                                            "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
+                                            "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
                                           },
                                           "num_date": {
                                             "confidence": [
-                                              2020.1707650273224,
-                                              2020.1707650273224
+                                              2020.1762295081967,
+                                              2020.1762295081967
                                             ],
-                                            "value": 2020.1707650273224
+                                            "value": 2020.1762295081967
                                           },
                                           "region": {
                                             "value": "Europe"
@@ -2424,7 +2471,7 @@
                                           "country": {
                                             "value": "Spain"
                                           },
-                                          "div": 0.00023410243136943255,
+                                          "div": 0.00020066151255133426,
                                           "local": {
                                             "value": "HOSPITAL TXAGORRITXU"
                                           },
@@ -2444,21 +2491,21 @@
                                     "name": "NODE_0000030",
                                     "node_attrs": {
                                       "autonomous_community": {
-                                        "value": "Castilla y Leon"
+                                        "value": "Comunitat Valenciana"
                                       },
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.00023410243136941315,
+                                      "div": 0.00020066151255131485,
                                       "local": {
-                                        "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
+                                        "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
                                       },
                                       "num_date": {
                                         "confidence": [
-                                          2020.1548759861776,
+                                          2020.154770172554,
                                           2020.1680327868853
                                         ],
-                                        "value": 2020.1680327868853
+                                        "value": 2020.1650576135464
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -2469,21 +2516,21 @@
                                 "name": "NODE_0000029",
                                 "node_attrs": {
                                   "autonomous_community": {
-                                    "value": "Castilla y Leon"
+                                    "value": "Comunitat Valenciana"
                                   },
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.00023410243136939374,
+                                  "div": 0.00020066151255129544,
                                   "local": {
-                                    "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
+                                    "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                   },
                                   "num_date": {
                                     "confidence": [
-                                      2020.1438628064577,
-                                      2020.1649070789786
+                                      2020.15133470321,
+                                      2020.1543715846994
                                     ],
-                                    "value": 2020.148804177771
+                                    "value": 2020.1543715846994
                                   },
                                   "region": {
                                     "value": "Europe"
@@ -2499,32 +2546,102 @@
                                     "branch_attrs": {
                                       "mutations": {}
                                     },
-                                    "name": "hCoV-19/Spain/Valencia4/2020|EPI_ISL_416483|2020-02-26",
-                                    "node_attrs": {
-                                      "accession": "EPI_ISL_416483",
-                                      "author": {
-                                        "author": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                        "value": "Maria Alma Bracho, Maria Dolores Ocete, Concepcion Gimeno, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                    "children": [
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {
+                                            "nuc": [
+                                              "C26681T"
+                                            ]
+                                          }
+                                        },
+                                        "name": "hCoV-19/Spain/Madrid_H9_38/2020|EPI_ISL_417961|2020-03-12",
+                                        "node_attrs": {
+                                          "accession": "EPI_ISL_417961",
+                                          "author": {
+                                            "author": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  ",
+                                            "value": "Elias Dahdouh, Sara Gonzalez, Fernando Lazaro, Esther Viedma, Natalia Stella, Julio Garcia, Juan Carlos Galan, Rafael Canton, Ma Dolores Folgueira, Rafael Delgado, Jesus Mingorance  "
+                                          },
+                                          "autonomous_community": {
+                                            "value": "Madrid"
+                                          },
+                                          "city": {
+                                            "value": "Madrid"
+                                          },
+                                          "country": {
+                                            "value": "Spain"
+                                          },
+                                          "div": 0.0002341049402407056,
+                                          "local": {
+                                            "value": "Hospital Universitario 12 de Octubre"
+                                          },
+                                          "num_date": {
+                                            "confidence": [
+                                              2020.1953551912568,
+                                              2020.1953551912568
+                                            ],
+                                            "value": 2020.1953551912568
+                                          },
+                                          "region": {
+                                            "value": "Europe"
+                                          }
+                                        }
                                       },
+                                      {
+                                        "branch_attrs": {
+                                          "mutations": {}
+                                        },
+                                        "name": "hCoV-19/Spain/CastillayLeon201323/2020|EPI_ISL_418248|2020-03-01",
+                                        "node_attrs": {
+                                          "accession": "EPI_ISL_418248",
+                                          "author": {
+                                            "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G.",
+                                            "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G."
+                                          },
+                                          "autonomous_community": {
+                                            "value": "Castilla y Leon"
+                                          },
+                                          "city": {
+                                            "value": "Burgos"
+                                          },
+                                          "country": {
+                                            "value": "Spain"
+                                          },
+                                          "div": 0.00020066151255133426,
+                                          "local": {
+                                            "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
+                                          },
+                                          "num_date": {
+                                            "confidence": [
+                                              2020.1653005464482,
+                                              2020.1653005464482
+                                            ],
+                                            "value": 2020.1653005464482
+                                          },
+                                          "region": {
+                                            "value": "Europe"
+                                          }
+                                        }
+                                      }
+                                    ],
+                                    "name": "NODE_0000032",
+                                    "node_attrs": {
                                       "autonomous_community": {
                                         "value": "Comunitat Valenciana"
-                                      },
-                                      "city": {
-                                        "value": "Valencia"
                                       },
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.00023410243136941315,
+                                      "div": 0.00020066151255131485,
                                       "local": {
-                                        "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
+                                        "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
                                       },
                                       "num_date": {
                                         "confidence": [
-                                          2020.1543715846994,
-                                          2020.1543715846994
+                                          2020.1538076226536,
+                                          2020.1653005464482
                                         ],
-                                        "value": 2020.1543715846994
+                                        "value": 2020.160973899625
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -2556,7 +2673,7 @@
                                           "country": {
                                             "value": "Spain"
                                           },
-                                          "div": 0.00023410243136943255,
+                                          "div": 0.00020066151255133426,
                                           "local": {
                                             "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                           },
@@ -2581,32 +2698,32 @@
                                             "branch_attrs": {
                                               "mutations": {}
                                             },
-                                            "name": "hCoV-19/Spain/Valencia3/2020|EPI_ISL_414598|2020-03-05",
+                                            "name": "hCoV-19/Spain/CastillayLeon201372/2020|EPI_ISL_418249|2020-03-03",
                                             "node_attrs": {
-                                              "accession": "EPI_ISL_414598",
+                                              "accession": "EPI_ISL_418249",
                                               "author": {
-                                                "author": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas",
-                                                "value": "David Navarro, Maria Alma Bracho, Giuseppe D'Auria, Griselda De Marco, Neris Garcia-Gonzalez, Fernando Gonzalez-Candelas"
+                                                "author": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G.",
+                                                "value": "Iglesias-Caballero, M. Molinero Calamita, M. Gonzalez-Esguevillas, M. Camarero, S. Pozo, F. Casas, I. Jimenez, P. Jimenez, M. Zaballos, A. Monzon, S. Varona, S. Julia, M. Cuesta, I. Megias-Lobon G."
                                               },
                                               "autonomous_community": {
-                                                "value": "Comunitat Valenciana"
+                                                "value": "Castilla y Leon"
                                               },
                                               "city": {
-                                                "value": "Valencia"
+                                                "value": "Burgos"
                                               },
                                               "country": {
                                                 "value": "Spain"
                                               },
-                                              "div": 0.00023410243136945196,
+                                              "div": 0.00020066151255135366,
                                               "local": {
-                                                "value": "Servicio Microbiologia. Hospital Clinico Universitario. Valencia"
+                                                "value": "COMPLEJO ASISTENCIAL UNIVERSITARIO DE BURGOS"
                                               },
                                               "num_date": {
                                                 "confidence": [
-                                                  2020.1762295081967,
-                                                  2020.1762295081967
+                                                  2020.1707650273224,
+                                                  2020.1707650273224
                                                 ],
-                                                "value": 2020.1762295081967
+                                                "value": 2020.1707650273224
                                               },
                                               "region": {
                                                 "value": "Europe"
@@ -2633,7 +2750,7 @@
                                               "country": {
                                                 "value": "Spain"
                                               },
-                                              "div": 0.00023410243136945196,
+                                              "div": 0.00020066151255135366,
                                               "local": {
                                                 "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                               },
@@ -2650,7 +2767,7 @@
                                             }
                                           }
                                         ],
-                                        "name": "NODE_0000033",
+                                        "name": "NODE_0000034",
                                         "node_attrs": {
                                           "autonomous_community": {
                                             "value": "Comunitat Valenciana"
@@ -2658,16 +2775,16 @@
                                           "country": {
                                             "value": "Spain"
                                           },
-                                          "div": 0.00023410243136943255,
+                                          "div": 0.00020066151255133426,
                                           "local": {
                                             "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                           },
                                           "num_date": {
                                             "confidence": [
-                                              2020.1530955555788,
-                                              2020.1734972677596
+                                              2020.155778106918,
+                                              2020.1707650273224
                                             ],
-                                            "value": 2020.170641121333
+                                            "value": 2020.1648146806447
                                           },
                                           "region": {
                                             "value": "Europe"
@@ -2675,7 +2792,7 @@
                                         }
                                       }
                                     ],
-                                    "name": "NODE_0000032",
+                                    "name": "NODE_0000033",
                                     "node_attrs": {
                                       "autonomous_community": {
                                         "value": "Comunitat Valenciana"
@@ -2683,16 +2800,16 @@
                                       "country": {
                                         "value": "Spain"
                                       },
-                                      "div": 0.00023410243136941315,
+                                      "div": 0.00020066151255131485,
                                       "local": {
                                         "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                       },
                                       "num_date": {
                                         "confidence": [
-                                          2020.1499410196134,
+                                          2020.153128784658,
                                           2020.1571038251366
                                         ],
-                                        "value": 2020.1571038251366
+                                        "value": 2020.156773029397
                                       },
                                       "region": {
                                         "value": "Europe"
@@ -2708,16 +2825,16 @@
                                   "country": {
                                     "value": "Spain"
                                   },
-                                  "div": 0.00023410243136939374,
+                                  "div": 0.00020066151255129544,
                                   "local": {
                                     "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                                   },
                                   "num_date": {
                                     "confidence": [
-                                      2020.1470312484437,
-                                      2020.1525222512203
+                                      2020.1506310220343,
+                                      2020.1561785712413
                                     ],
-                                    "value": 2020.1525222512203
+                                    "value": 2020.1525929848365
                                   },
                                   "region": {
                                     "value": "Europe"
@@ -2733,16 +2850,16 @@
                               "country": {
                                 "value": "Spain"
                               },
-                              "div": 0.00023410243136937433,
+                              "div": 0.00020066151255127603,
                               "local": {
                                 "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                               },
                               "num_date": {
                                 "confidence": [
-                                  2020.1383107910567,
-                                  2020.1462490992494
+                                  2020.1408188963892,
+                                  2020.1535041071475
                                 ],
-                                "value": 2020.1462490992494
+                                "value": 2020.1526366295952
                               },
                               "region": {
                                 "value": "Europe"
@@ -2750,7 +2867,7 @@
                             }
                           }
                         ],
-                        "name": "NODE_0000028",
+                        "name": "NODE_0000023",
                         "node_attrs": {
                           "autonomous_community": {
                             "value": "Comunitat Valenciana"
@@ -2758,16 +2875,16 @@
                           "country": {
                             "value": "Spain"
                           },
-                          "div": 0.00023410243136935493,
+                          "div": 0.00020066151255125663,
                           "local": {
                             "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                           },
                           "num_date": {
                             "confidence": [
-                              2020.0493422116713,
-                              2020.1442823275056
+                              2020.1308737530053,
+                              2020.1526597876646
                             ],
-                            "value": 2020.1412323680208
+                            "value": 2020.1513769306453
                           },
                           "region": {
                             "value": "Europe"
@@ -2775,24 +2892,24 @@
                         }
                       }
                     ],
-                    "name": "NODE_0000027",
+                    "name": "NODE_0000028",
                     "node_attrs": {
                       "autonomous_community": {
-                        "value": "Madrid"
+                        "value": "Comunitat Valenciana"
                       },
                       "country": {
                         "value": "Spain"
                       },
-                      "div": 0.00016721397661652554,
+                      "div": 0.00020066151255123722,
                       "local": {
-                        "value": "Hospital Universitario Ramon y Cajal"
+                        "value": "Servicio de Microbiologia. Consorcio Hospital General Universitario de Valencia"
                       },
                       "num_date": {
                         "confidence": [
-                          2020.1113705164398,
-                          2020.1277042813517
+                          2020.1113577072529,
+                          2020.151579010779
                         ],
-                        "value": 2020.1277042813517
+                        "value": 2020.1485333977132
                       },
                       "region": {
                         "value": "Europe"
@@ -2800,7 +2917,7 @@
                     }
                   }
                 ],
-                "name": "NODE_0000022",
+                "name": "NODE_0000027",
                 "node_attrs": {
                   "autonomous_community": {
                     "value": "Madrid"
@@ -2808,16 +2925,16 @@
                   "country": {
                     "value": "Spain"
                   },
-                  "div": 6.688181850536445e-05,
+                  "div": 0.00013377307879256542,
                   "local": {
                     "value": "Hospital Universitario Ramon y Cajal"
                   },
                   "num_date": {
                     "confidence": [
-                      2020.0758028329976,
-                      2020.10660355995
+                      2019.8493183875453,
+                      2020.146922094004
                     ],
-                    "value": 2020.10660355995
+                    "value": 2020.144506543801
                   },
                   "region": {
                     "value": "Europe"
@@ -2825,7 +2942,7 @@
                 }
               }
             ],
-            "name": "NODE_0000021",
+            "name": "NODE_0000022",
             "node_attrs": {
               "autonomous_community": {
                 "value": "Madrid"
@@ -2833,16 +2950,16 @@
               "country": {
                 "value": "Spain"
               },
-              "div": 3.3440910164120915e-05,
+              "div": 3.344089421131046e-05,
               "local": {
-                "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
+                "value": "Hospital Universitario Ramon y Cajal"
               },
               "num_date": {
                 "confidence": [
-                  2016.3633983133689,
-                  2020.090024972532
+                  2019.1662095504428,
+                  2020.1440032792855
                 ],
-                "value": 2020.0888646782944
+                "value": 2020.1372333008537
               },
               "region": {
                 "value": "Europe"
@@ -2850,7 +2967,7 @@
             }
           }
         ],
-        "name": "NODE_0000040",
+        "name": "NODE_0000017",
         "node_attrs": {
           "autonomous_community": {
             "value": "Madrid"
@@ -2858,16 +2975,16 @@
           "country": {
             "value": "Spain"
           },
-          "div": 1.9406643901013447e-17,
+          "div": 1.9409548705337178e-17,
           "local": {
-            "value": "Hospital Universitario La Paz"
+            "value": "HOSPITAL UNIVERSITARIO VIRGEN DE LAS NIEVES"
           },
           "num_date": {
             "confidence": [
-              2014.594933234322,
-              2020.0840389968441
+              2018.9415764518972,
+              2020.142027398379
             ],
-            "value": 2020.0286927840027
+            "value": 2020.130274554893
           },
           "region": {
             "value": "Europe"
@@ -2889,10 +3006,10 @@
       },
       "num_date": {
         "confidence": [
-          2014.5958150393803,
-          2020.079131924338
+          2018.7308805325144,
+          2020.1401617825784
         ],
-        "value": 2019.9074517708893
+        "value": 2020.0989350744767
       },
       "region": {
         "value": "Europe"
