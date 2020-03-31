@@ -19,7 +19,7 @@
       },
       {
         "key": "autonomous_community",
-        "title": "Division",
+        "title": "Autonomous_community",
         "type": "categorical"
       },
       {
